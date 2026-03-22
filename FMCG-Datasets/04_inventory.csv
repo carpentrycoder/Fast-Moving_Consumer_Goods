@@ -1,0 +1,469 @@
+inventory_id,warehouse_id,warehouse_name,warehouse_state,warehouse_region,product_id,product_name,brand_name,stock_available,reorder_level,max_capacity,stock_status,days_of_supply,last_updated
+INV00001,WH001,Mumbai Central WH,Maharashtra,West,PRD001,Shampoo 200ml,Sunsilk,225,193,1930,Healthy,35.0,2024-12-13
+INV00002,WH001,Mumbai Central WH,Maharashtra,West,PRD002,Anti-Dandruff Shampoo,Head & Shoulders,379,161,1610,Healthy,70.6,2024-12-07
+INV00003,WH001,Mumbai Central WH,Maharashtra,West,PRD003,Face Wash 100g,Himalaya,220,79,790,Healthy,83.5,2024-12-09
+INV00004,WH001,Mumbai Central WH,Maharashtra,West,PRD004,Body Lotion 300ml,Vaseline,197,112,1120,Healthy,52.8,2024-12-10
+INV00005,WH001,Mumbai Central WH,Maharashtra,West,PRD005,Talcum Powder 150g,Ponds,472,63,630,Overstocked,224.8,2024-12-20
+INV00006,WH001,Mumbai Central WH,Maharashtra,West,PRD006,Herbal Hair Oil 100ml,Dabur Amla,174,86,860,Healthy,60.7,2024-12-15
+INV00007,WH001,Mumbai Central WH,Maharashtra,West,PRD007,Whitening Toothpaste,Colgate,62,77,770,Low Stock,24.2,2024-12-12
+INV00008,WH001,Mumbai Central WH,Maharashtra,West,PRD008,Charcoal Toothpaste,Patanjali,229,79,790,Healthy,87.0,2024-12-02
+INV00009,WH001,Mumbai Central WH,Maharashtra,West,PRD009,Deo Spray 150ml,Axe,442,198,1980,Healthy,67.0,2024-12-11
+INV00010,WH001,Mumbai Central WH,Maharashtra,West,PRD010,Perfume Deo 150ml,Fogg,247,92,920,Healthy,80.5,2024-12-31
+INV00011,WH001,Mumbai Central WH,Maharashtra,West,PRD011,Moisturizing Soap 100g,Dove,154,163,1630,Low Stock,28.3,2024-12-13
+INV00012,WH001,Mumbai Central WH,Maharashtra,West,PRD012,Neem Soap 100g,Medimix,163,126,1260,Healthy,38.8,2024-12-13
+INV00013,WH001,Mumbai Central WH,Maharashtra,West,PRD013,Detergent Powder 1kg,Surf Excel,32,123,1230,Low Stock,7.8,2024-12-30
+INV00014,WH001,Mumbai Central WH,Maharashtra,West,PRD014,Fabric Softener 500ml,Comfort,94,50,500,Healthy,56.4,2024-12-22
+INV00015,WH001,Mumbai Central WH,Maharashtra,West,PRD015,Dish Wash Liquid 500ml,Vim,155,152,1520,Healthy,30.6,2024-12-14
+INV00016,WH001,Mumbai Central WH,Maharashtra,West,PRD016,Floor Cleaner 1L,Lizol,112,73,730,Healthy,46.0,2024-12-09
+INV00017,WH001,Mumbai Central WH,Maharashtra,West,PRD017,Toilet Cleaner 500ml,Harpic,139,62,620,Healthy,67.3,2024-12-27
+INV00018,WH001,Mumbai Central WH,Maharashtra,West,PRD018,All-Purpose Spray 400ml,Colin,165,108,1080,Healthy,45.8,2024-12-26
+INV00019,WH001,Mumbai Central WH,Maharashtra,West,PRD019,Cream Biscuits 200g,Oreo,88,75,750,Healthy,35.2,2024-12-13
+INV00020,WH001,Mumbai Central WH,Maharashtra,West,PRD020,Instant Noodles 75g,Maggi,343,136,1360,Healthy,75.7,2024-12-27
+INV00021,WH001,Mumbai Central WH,Maharashtra,West,PRD021,Refined Sunflower Oil 1L,Fortune,605,134,1340,Overstocked,135.4,2024-12-03
+INV00022,WH001,Mumbai Central WH,Maharashtra,West,PRD022,Masala Chai 250g,Tata Tea,456,92,920,Overstocked,148.7,2024-12-21
+INV00023,WH001,Mumbai Central WH,Maharashtra,West,PRD023,Instant Coffee 50g,Nescafe,1426,187,1870,Overstocked,228.8,2024-12-13
+INV00024,WH001,Mumbai Central WH,Maharashtra,West,PRD024,Mixed Masala 100g,MDH,1233,176,1760,Overstocked,210.2,2024-12-09
+INV00025,WH001,Mumbai Central WH,Maharashtra,West,PRD025,Mixed Fruit Jam 250g,Kissan,30,110,1100,Low Stock,8.2,2024-12-07
+INV00026,WH001,Mumbai Central WH,Maharashtra,West,PRD026,Tomato Ketchup 500g,Heinz,143,110,1100,Healthy,39.0,2025-01-01
+INV00027,WH001,Mumbai Central WH,Maharashtra,West,PRD027,Cornflakes 500g,Kelloggs,375,197,1970,Healthy,57.1,2024-12-12
+INV00028,WH001,Mumbai Central WH,Maharashtra,West,PRD028,Baby Lotion 200ml,Johnson's,61,79,790,Low Stock,23.2,2024-12-31
+INV00029,WH001,Mumbai Central WH,Maharashtra,West,PRD029,Baby Wipes 80pcs,Pampers,1057,196,1960,Overstocked,161.8,2024-12-06
+INV00030,WH001,Mumbai Central WH,Maharashtra,West,PRD030,Baby Powder 100g,Johnson's,98,162,1620,Low Stock,18.1,2024-12-23
+INV00031,WH001,Mumbai Central WH,Maharashtra,West,PRD031,Baby Shampoo 100ml,Himalaya,310,168,1680,Healthy,55.4,2024-12-04
+INV00032,WH001,Mumbai Central WH,Maharashtra,West,PRD032,Diaper Pants M 30pcs,Huggies,163,192,1920,Low Stock,25.5,2024-12-19
+INV00033,WH001,Mumbai Central WH,Maharashtra,West,PRD033,Whey Protein 500g,Ensure,65,85,850,Low Stock,22.9,2024-12-20
+INV00034,WH001,Mumbai Central WH,Maharashtra,West,PRD034,Immunity Syrup 200ml,Dabur Chyawanprash,424,190,1900,Healthy,66.9,2024-12-11
+INV00035,WH001,Mumbai Central WH,Maharashtra,West,PRD035,Pain Relief Gel 30g,Volini,1404,195,1950,Overstocked,216.0,2024-12-12
+INV00036,WH001,Mumbai Central WH,Maharashtra,West,PRD036,Energy Bar 50g,RiteBite,223,93,930,Healthy,71.9,2025-01-01
+INV00037,WH001,Mumbai Central WH,Maharashtra,West,PRD037,Mouthwash 250ml,Listerine,241,146,1460,Healthy,49.5,2024-12-03
+INV00038,WH001,Mumbai Central WH,Maharashtra,West,PRD038,Hand Sanitizer 100ml,Dettol,253,113,1130,Healthy,67.2,2024-12-14
+INV00039,WH001,Mumbai Central WH,Maharashtra,West,PRD039,Glucose Powder 500g,Glucon-D,19,117,1170,Low Stock,4.9,2024-12-03
+INV00040,WH002,Pune Distribution WH,Maharashtra,West,PRD001,Shampoo 200ml,Sunsilk,242,141,1410,Healthy,51.5,2024-12-20
+INV00041,WH002,Pune Distribution WH,Maharashtra,West,PRD002,Anti-Dandruff Shampoo,Head & Shoulders,9,90,900,Low Stock,3.0,2024-12-05
+INV00042,WH002,Pune Distribution WH,Maharashtra,West,PRD003,Face Wash 100g,Himalaya,457,191,1910,Healthy,71.8,2024-12-28
+INV00043,WH002,Pune Distribution WH,Maharashtra,West,PRD004,Body Lotion 300ml,Vaseline,298,102,1020,Healthy,87.6,2024-12-09
+INV00044,WH002,Pune Distribution WH,Maharashtra,West,PRD005,Talcum Powder 150g,Ponds,1357,170,1700,Overstocked,239.5,2024-12-19
+INV00045,WH002,Pune Distribution WH,Maharashtra,West,PRD006,Herbal Hair Oil 100ml,Dabur Amla,186,96,960,Healthy,58.1,2024-12-25
+INV00046,WH002,Pune Distribution WH,Maharashtra,West,PRD007,Whitening Toothpaste,Colgate,386,84,840,Overstocked,137.9,2025-01-01
+INV00047,WH002,Pune Distribution WH,Maharashtra,West,PRD008,Charcoal Toothpaste,Patanjali,195,107,1070,Healthy,54.7,2024-12-19
+INV00048,WH002,Pune Distribution WH,Maharashtra,West,PRD009,Deo Spray 150ml,Axe,207,160,1600,Healthy,38.8,2024-12-13
+INV00049,WH002,Pune Distribution WH,Maharashtra,West,PRD010,Perfume Deo 150ml,Fogg,107,149,1490,Low Stock,21.5,2024-12-22
+INV00050,WH002,Pune Distribution WH,Maharashtra,West,PRD011,Moisturizing Soap 100g,Dove,337,197,1970,Healthy,51.3,2024-12-17
+INV00051,WH002,Pune Distribution WH,Maharashtra,West,PRD012,Neem Soap 100g,Medimix,383,88,880,Overstocked,130.6,2024-12-08
+INV00052,WH002,Pune Distribution WH,Maharashtra,West,PRD013,Detergent Powder 1kg,Surf Excel,175,60,600,Healthy,87.5,2024-12-03
+INV00053,WH002,Pune Distribution WH,Maharashtra,West,PRD014,Fabric Softener 500ml,Comfort,118,57,570,Healthy,62.1,2024-12-27
+INV00054,WH002,Pune Distribution WH,Maharashtra,West,PRD015,Dish Wash Liquid 500ml,Vim,224,160,1600,Healthy,42.0,2025-01-01
+INV00055,WH002,Pune Distribution WH,Maharashtra,West,PRD016,Floor Cleaner 1L,Lizol,402,189,1890,Healthy,63.8,2024-12-30
+INV00056,WH002,Pune Distribution WH,Maharashtra,West,PRD017,Toilet Cleaner 500ml,Harpic,255,182,1820,Healthy,42.0,2024-12-31
+INV00057,WH002,Pune Distribution WH,Maharashtra,West,PRD018,All-Purpose Spray 400ml,Colin,452,154,1540,Healthy,88.1,2024-12-06
+INV00058,WH002,Pune Distribution WH,Maharashtra,West,PRD019,Cream Biscuits 200g,Oreo,196,121,1210,Healthy,48.6,2024-12-19
+INV00059,WH002,Pune Distribution WH,Maharashtra,West,PRD020,Instant Noodles 75g,Maggi,2,75,750,Low Stock,0.8,2024-12-25
+INV00060,WH002,Pune Distribution WH,Maharashtra,West,PRD021,Refined Sunflower Oil 1L,Fortune,93,145,1450,Low Stock,19.2,2024-12-07
+INV00061,WH002,Pune Distribution WH,Maharashtra,West,PRD022,Masala Chai 250g,Tata Tea,153,87,870,Healthy,52.8,2024-12-31
+INV00062,WH002,Pune Distribution WH,Maharashtra,West,PRD023,Instant Coffee 50g,Nescafe,91,176,1760,Low Stock,15.5,2024-12-15
+INV00063,WH002,Pune Distribution WH,Maharashtra,West,PRD024,Mixed Masala 100g,MDH,160,106,1060,Healthy,45.3,2024-12-21
+INV00064,WH002,Pune Distribution WH,Maharashtra,West,PRD025,Mixed Fruit Jam 250g,Kissan,553,90,900,Overstocked,184.3,2024-12-02
+INV00065,WH002,Pune Distribution WH,Maharashtra,West,PRD026,Tomato Ketchup 500g,Heinz,238,169,1690,Healthy,42.2,2024-12-17
+INV00066,WH002,Pune Distribution WH,Maharashtra,West,PRD027,Cornflakes 500g,Kelloggs,21,192,1920,Low Stock,3.3,2024-12-24
+INV00067,WH002,Pune Distribution WH,Maharashtra,West,PRD028,Baby Lotion 200ml,Johnson's,102,51,510,Healthy,60.0,2024-12-26
+INV00068,WH002,Pune Distribution WH,Maharashtra,West,PRD029,Baby Wipes 80pcs,Pampers,149,87,870,Healthy,51.4,2024-12-17
+INV00069,WH002,Pune Distribution WH,Maharashtra,West,PRD030,Baby Powder 100g,Johnson's,737,133,1330,Overstocked,166.2,2024-12-08
+INV00070,WH002,Pune Distribution WH,Maharashtra,West,PRD031,Baby Shampoo 100ml,Himalaya,135,186,1860,Low Stock,21.8,2024-12-27
+INV00071,WH002,Pune Distribution WH,Maharashtra,West,PRD032,Diaper Pants M 30pcs,Huggies,476,161,1610,Healthy,88.7,2024-12-28
+INV00072,WH002,Pune Distribution WH,Maharashtra,West,PRD033,Whey Protein 500g,Ensure,290,184,1840,Healthy,47.3,2024-12-28
+INV00073,WH002,Pune Distribution WH,Maharashtra,West,PRD034,Immunity Syrup 200ml,Dabur Chyawanprash,344,163,1630,Healthy,63.3,2024-12-05
+INV00074,WH002,Pune Distribution WH,Maharashtra,West,PRD035,Pain Relief Gel 30g,Volini,70,108,1080,Low Stock,19.4,2024-12-21
+INV00075,WH002,Pune Distribution WH,Maharashtra,West,PRD036,Energy Bar 50g,RiteBite,101,92,920,Healthy,32.9,2024-12-25
+INV00076,WH002,Pune Distribution WH,Maharashtra,West,PRD037,Mouthwash 250ml,Listerine,256,170,1700,Healthy,45.2,2024-12-26
+INV00077,WH002,Pune Distribution WH,Maharashtra,West,PRD038,Hand Sanitizer 100ml,Dettol,305,73,730,Overstocked,125.3,2024-12-07
+INV00078,WH002,Pune Distribution WH,Maharashtra,West,PRD039,Glucose Powder 500g,Glucon-D,254,163,1630,Healthy,46.7,2024-12-22
+INV00079,WH003,Ahmedabad WH,Gujarat,West,PRD001,Shampoo 200ml,Sunsilk,77,164,1640,Low Stock,14.1,2024-12-17
+INV00080,WH003,Ahmedabad WH,Gujarat,West,PRD002,Anti-Dandruff Shampoo,Head & Shoulders,162,56,560,Healthy,86.8,2024-12-31
+INV00081,WH003,Ahmedabad WH,Gujarat,West,PRD003,Face Wash 100g,Himalaya,407,87,870,Overstocked,140.3,2024-12-15
+INV00082,WH003,Ahmedabad WH,Gujarat,West,PRD004,Body Lotion 300ml,Vaseline,1283,183,1830,Overstocked,210.3,2024-12-04
+INV00083,WH003,Ahmedabad WH,Gujarat,West,PRD005,Talcum Powder 150g,Ponds,266,123,1230,Healthy,64.9,2024-12-31
+INV00084,WH003,Ahmedabad WH,Gujarat,West,PRD006,Herbal Hair Oil 100ml,Dabur Amla,716,129,1290,Overstocked,166.5,2024-12-23
+INV00085,WH003,Ahmedabad WH,Gujarat,West,PRD007,Whitening Toothpaste,Colgate,10,164,1640,Low Stock,1.8,2024-12-27
+INV00086,WH003,Ahmedabad WH,Gujarat,West,PRD008,Charcoal Toothpaste,Patanjali,35,89,890,Low Stock,11.8,2024-12-23
+INV00087,WH003,Ahmedabad WH,Gujarat,West,PRD009,Deo Spray 150ml,Axe,128,176,1760,Low Stock,21.8,2024-12-11
+INV00088,WH003,Ahmedabad WH,Gujarat,West,PRD010,Perfume Deo 150ml,Fogg,208,102,1020,Healthy,61.2,2024-12-27
+INV00089,WH003,Ahmedabad WH,Gujarat,West,PRD011,Moisturizing Soap 100g,Dove,68,104,1040,Low Stock,19.6,2024-12-27
+INV00090,WH003,Ahmedabad WH,Gujarat,West,PRD012,Neem Soap 100g,Medimix,355,185,1850,Healthy,57.6,2024-12-09
+INV00091,WH003,Ahmedabad WH,Gujarat,West,PRD013,Detergent Powder 1kg,Surf Excel,65,61,610,Healthy,32.0,2024-12-27
+INV00092,WH003,Ahmedabad WH,Gujarat,West,PRD014,Fabric Softener 500ml,Comfort,242,134,1340,Healthy,54.2,2024-12-03
+INV00093,WH003,Ahmedabad WH,Gujarat,West,PRD015,Dish Wash Liquid 500ml,Vim,483,112,1120,Overstocked,129.4,2024-12-10
+INV00094,WH003,Ahmedabad WH,Gujarat,West,PRD016,Floor Cleaner 1L,Lizol,272,98,980,Healthy,83.3,2024-12-26
+INV00095,WH003,Ahmedabad WH,Gujarat,West,PRD017,Toilet Cleaner 500ml,Harpic,55,77,770,Low Stock,21.4,2024-12-29
+INV00096,WH003,Ahmedabad WH,Gujarat,West,PRD018,All-Purpose Spray 400ml,Colin,43,62,620,Low Stock,20.8,2024-12-13
+INV00097,WH003,Ahmedabad WH,Gujarat,West,PRD019,Cream Biscuits 200g,Oreo,119,171,1710,Low Stock,20.9,2024-12-28
+INV00098,WH003,Ahmedabad WH,Gujarat,West,PRD020,Instant Noodles 75g,Maggi,39,64,640,Low Stock,18.3,2024-12-08
+INV00099,WH003,Ahmedabad WH,Gujarat,West,PRD021,Refined Sunflower Oil 1L,Fortune,51,81,810,Low Stock,18.9,2024-12-12
+INV00100,WH003,Ahmedabad WH,Gujarat,West,PRD022,Masala Chai 250g,Tata Tea,150,64,640,Healthy,70.3,2024-12-08
+INV00101,WH003,Ahmedabad WH,Gujarat,West,PRD023,Instant Coffee 50g,Nescafe,35,55,550,Low Stock,19.1,2024-12-02
+INV00102,WH003,Ahmedabad WH,Gujarat,West,PRD024,Mixed Masala 100g,MDH,951,122,1220,Overstocked,233.9,2024-12-28
+INV00103,WH003,Ahmedabad WH,Gujarat,West,PRD025,Mixed Fruit Jam 250g,Kissan,1298,166,1660,Overstocked,234.6,2024-12-14
+INV00104,WH003,Ahmedabad WH,Gujarat,West,PRD026,Tomato Ketchup 500g,Heinz,337,132,1320,Healthy,76.6,2024-12-11
+INV00105,WH003,Ahmedabad WH,Gujarat,West,PRD027,Cornflakes 500g,Kelloggs,1256,178,1780,Overstocked,211.7,2024-12-28
+INV00106,WH003,Ahmedabad WH,Gujarat,West,PRD028,Baby Lotion 200ml,Johnson's,979,130,1300,Overstocked,225.9,2024-12-06
+INV00107,WH003,Ahmedabad WH,Gujarat,West,PRD029,Baby Wipes 80pcs,Pampers,728,141,1410,Overstocked,154.9,2024-12-28
+INV00108,WH003,Ahmedabad WH,Gujarat,West,PRD030,Baby Powder 100g,Johnson's,654,99,990,Overstocked,198.2,2024-12-19
+INV00109,WH003,Ahmedabad WH,Gujarat,West,PRD031,Baby Shampoo 100ml,Himalaya,328,131,1310,Healthy,75.1,2024-12-08
+INV00110,WH003,Ahmedabad WH,Gujarat,West,PRD032,Diaper Pants M 30pcs,Huggies,466,182,1820,Healthy,76.8,2024-12-25
+INV00111,WH003,Ahmedabad WH,Gujarat,West,PRD033,Whey Protein 500g,Ensure,67,158,1580,Low Stock,12.7,2024-12-04
+INV00112,WH003,Ahmedabad WH,Gujarat,West,PRD034,Immunity Syrup 200ml,Dabur Chyawanprash,25,113,1130,Low Stock,6.6,2024-12-08
+INV00113,WH003,Ahmedabad WH,Gujarat,West,PRD035,Pain Relief Gel 30g,Volini,113,107,1070,Healthy,31.7,2024-12-11
+INV00114,WH003,Ahmedabad WH,Gujarat,West,PRD036,Energy Bar 50g,RiteBite,253,164,1640,Healthy,46.3,2024-12-10
+INV00115,WH003,Ahmedabad WH,Gujarat,West,PRD037,Mouthwash 250ml,Listerine,245,156,1560,Healthy,47.1,2024-12-10
+INV00116,WH003,Ahmedabad WH,Gujarat,West,PRD038,Hand Sanitizer 100ml,Dettol,32,193,1930,Low Stock,5.0,2024-12-27
+INV00117,WH003,Ahmedabad WH,Gujarat,West,PRD039,Glucose Powder 500g,Glucon-D,1104,178,1780,Overstocked,186.1,2024-12-22
+INV00118,WH004,Delhi NCR WH,Delhi,North,PRD001,Shampoo 200ml,Sunsilk,240,177,1770,Healthy,40.7,2024-12-14
+INV00119,WH004,Delhi NCR WH,Delhi,North,PRD002,Anti-Dandruff Shampoo,Head & Shoulders,33,145,1450,Low Stock,6.8,2024-12-13
+INV00120,WH004,Delhi NCR WH,Delhi,North,PRD003,Face Wash 100g,Himalaya,58,58,580,Healthy,30.0,2024-12-17
+INV00121,WH004,Delhi NCR WH,Delhi,North,PRD004,Body Lotion 300ml,Vaseline,21,168,1680,Low Stock,3.8,2024-12-10
+INV00122,WH004,Delhi NCR WH,Delhi,North,PRD005,Talcum Powder 150g,Ponds,392,168,1680,Healthy,70.0,2024-12-26
+INV00123,WH004,Delhi NCR WH,Delhi,North,PRD006,Herbal Hair Oil 100ml,Dabur Amla,137,95,950,Healthy,43.3,2025-01-01
+INV00124,WH004,Delhi NCR WH,Delhi,North,PRD007,Whitening Toothpaste,Colgate,1,59,590,Low Stock,0.5,2024-12-25
+INV00125,WH004,Delhi NCR WH,Delhi,North,PRD008,Charcoal Toothpaste,Patanjali,1311,191,1910,Overstocked,205.9,2024-12-20
+INV00126,WH004,Delhi NCR WH,Delhi,North,PRD009,Deo Spray 150ml,Axe,1003,164,1640,Overstocked,183.5,2024-12-14
+INV00127,WH004,Delhi NCR WH,Delhi,North,PRD010,Perfume Deo 150ml,Fogg,14,117,1170,Low Stock,3.6,2024-12-25
+INV00128,WH004,Delhi NCR WH,Delhi,North,PRD011,Moisturizing Soap 100g,Dove,145,109,1090,Healthy,39.9,2024-12-29
+INV00129,WH004,Delhi NCR WH,Delhi,North,PRD012,Neem Soap 100g,Medimix,97,99,990,Low Stock,29.4,2024-12-31
+INV00130,WH004,Delhi NCR WH,Delhi,North,PRD013,Detergent Powder 1kg,Surf Excel,224,178,1780,Healthy,37.8,2024-12-05
+INV00131,WH004,Delhi NCR WH,Delhi,North,PRD014,Fabric Softener 500ml,Comfort,120,96,960,Healthy,37.5,2024-12-10
+INV00132,WH004,Delhi NCR WH,Delhi,North,PRD015,Dish Wash Liquid 500ml,Vim,663,104,1040,Overstocked,191.2,2024-12-25
+INV00133,WH004,Delhi NCR WH,Delhi,North,PRD016,Floor Cleaner 1L,Lizol,211,121,1210,Healthy,52.3,2024-12-13
+INV00134,WH004,Delhi NCR WH,Delhi,North,PRD017,Toilet Cleaner 500ml,Harpic,103,120,1200,Low Stock,25.8,2024-12-16
+INV00135,WH004,Delhi NCR WH,Delhi,North,PRD018,All-Purpose Spray 400ml,Colin,245,85,850,Healthy,86.5,2024-12-22
+INV00136,WH004,Delhi NCR WH,Delhi,North,PRD019,Cream Biscuits 200g,Oreo,220,77,770,Healthy,85.7,2024-12-04
+INV00137,WH004,Delhi NCR WH,Delhi,North,PRD020,Instant Noodles 75g,Maggi,133,80,800,Healthy,49.9,2024-12-24
+INV00138,WH004,Delhi NCR WH,Delhi,North,PRD021,Refined Sunflower Oil 1L,Fortune,140,120,1200,Healthy,35.0,2024-12-31
+INV00139,WH004,Delhi NCR WH,Delhi,North,PRD022,Masala Chai 250g,Tata Tea,491,173,1730,Healthy,85.1,2024-12-04
+INV00140,WH004,Delhi NCR WH,Delhi,North,PRD023,Instant Coffee 50g,Nescafe,428,149,1490,Healthy,86.2,2024-12-28
+INV00141,WH004,Delhi NCR WH,Delhi,North,PRD024,Mixed Masala 100g,MDH,335,158,1580,Healthy,63.6,2024-12-20
+INV00142,WH004,Delhi NCR WH,Delhi,North,PRD025,Mixed Fruit Jam 250g,Kissan,940,174,1740,Overstocked,162.1,2024-12-09
+INV00143,WH004,Delhi NCR WH,Delhi,North,PRD026,Tomato Ketchup 500g,Heinz,289,100,1000,Healthy,86.7,2024-12-27
+INV00144,WH004,Delhi NCR WH,Delhi,North,PRD027,Cornflakes 500g,Kelloggs,59,62,620,Low Stock,28.5,2024-12-14
+INV00145,WH004,Delhi NCR WH,Delhi,North,PRD028,Baby Lotion 200ml,Johnson's,26,138,1380,Low Stock,5.7,2024-12-28
+INV00146,WH004,Delhi NCR WH,Delhi,North,PRD029,Baby Wipes 80pcs,Pampers,642,84,840,Overstocked,229.3,2024-12-07
+INV00147,WH004,Delhi NCR WH,Delhi,North,PRD030,Baby Powder 100g,Johnson's,70,165,1650,Low Stock,12.7,2024-12-09
+INV00148,WH004,Delhi NCR WH,Delhi,North,PRD031,Baby Shampoo 100ml,Himalaya,132,100,1000,Healthy,39.6,2024-12-08
+INV00149,WH004,Delhi NCR WH,Delhi,North,PRD032,Diaper Pants M 30pcs,Huggies,514,193,1930,Healthy,79.9,2024-12-24
+INV00150,WH004,Delhi NCR WH,Delhi,North,PRD033,Whey Protein 500g,Ensure,155,64,640,Healthy,72.7,2024-12-13
+INV00151,WH004,Delhi NCR WH,Delhi,North,PRD034,Immunity Syrup 200ml,Dabur Chyawanprash,435,56,560,Overstocked,233.0,2024-12-22
+INV00152,WH004,Delhi NCR WH,Delhi,North,PRD035,Pain Relief Gel 30g,Volini,396,200,2000,Healthy,59.4,2025-01-01
+INV00153,WH004,Delhi NCR WH,Delhi,North,PRD036,Energy Bar 50g,RiteBite,132,81,810,Healthy,48.9,2024-12-18
+INV00154,WH004,Delhi NCR WH,Delhi,North,PRD037,Mouthwash 250ml,Listerine,138,59,590,Healthy,70.2,2024-12-28
+INV00155,WH004,Delhi NCR WH,Delhi,North,PRD038,Hand Sanitizer 100ml,Dettol,356,127,1270,Healthy,84.1,2024-12-02
+INV00156,WH004,Delhi NCR WH,Delhi,North,PRD039,Glucose Powder 500g,Glucon-D,452,172,1720,Healthy,78.8,2024-12-07
+INV00157,WH005,Lucknow WH,Uttar Pradesh,North,PRD001,Shampoo 200ml,Sunsilk,78,68,680,Healthy,34.4,2024-12-28
+INV00158,WH005,Lucknow WH,Uttar Pradesh,North,PRD002,Anti-Dandruff Shampoo,Head & Shoulders,396,143,1430,Healthy,83.1,2024-12-07
+INV00159,WH005,Lucknow WH,Uttar Pradesh,North,PRD003,Face Wash 100g,Himalaya,453,182,1820,Healthy,74.7,2024-12-11
+INV00160,WH005,Lucknow WH,Uttar Pradesh,North,PRD004,Body Lotion 300ml,Vaseline,106,117,1170,Low Stock,27.2,2024-12-27
+INV00161,WH005,Lucknow WH,Uttar Pradesh,North,PRD005,Talcum Powder 150g,Ponds,231,99,990,Healthy,70.0,2025-01-01
+INV00162,WH005,Lucknow WH,Uttar Pradesh,North,PRD006,Herbal Hair Oil 100ml,Dabur Amla,280,188,1880,Healthy,44.7,2024-12-23
+INV00163,WH005,Lucknow WH,Uttar Pradesh,North,PRD007,Whitening Toothpaste,Colgate,381,133,1330,Healthy,85.9,2024-12-28
+INV00164,WH005,Lucknow WH,Uttar Pradesh,North,PRD008,Charcoal Toothpaste,Patanjali,109,173,1730,Low Stock,18.9,2024-12-10
+INV00165,WH005,Lucknow WH,Uttar Pradesh,North,PRD009,Deo Spray 150ml,Axe,487,197,1970,Healthy,74.2,2024-12-31
+INV00166,WH005,Lucknow WH,Uttar Pradesh,North,PRD010,Perfume Deo 150ml,Fogg,862,181,1810,Overstocked,142.9,2024-12-18
+INV00167,WH005,Lucknow WH,Uttar Pradesh,North,PRD011,Moisturizing Soap 100g,Dove,164,100,1000,Healthy,49.2,2024-12-27
+INV00168,WH005,Lucknow WH,Uttar Pradesh,North,PRD012,Neem Soap 100g,Medimix,245,91,910,Healthy,80.8,2024-12-13
+INV00169,WH005,Lucknow WH,Uttar Pradesh,North,PRD013,Detergent Powder 1kg,Surf Excel,68,130,1300,Low Stock,15.7,2024-12-19
+INV00170,WH005,Lucknow WH,Uttar Pradesh,North,PRD014,Fabric Softener 500ml,Comfort,424,53,530,Overstocked,240.0,2024-12-24
+INV00171,WH005,Lucknow WH,Uttar Pradesh,North,PRD015,Dish Wash Liquid 500ml,Vim,154,197,1970,Low Stock,23.5,2024-12-24
+INV00172,WH005,Lucknow WH,Uttar Pradesh,North,PRD016,Floor Cleaner 1L,Lizol,112,85,850,Healthy,39.5,2024-12-21
+INV00173,WH005,Lucknow WH,Uttar Pradesh,North,PRD017,Toilet Cleaner 500ml,Harpic,109,70,700,Healthy,46.7,2024-12-26
+INV00174,WH005,Lucknow WH,Uttar Pradesh,North,PRD018,All-Purpose Spray 400ml,Colin,470,188,1880,Healthy,75.0,2024-12-08
+INV00175,WH005,Lucknow WH,Uttar Pradesh,North,PRD019,Cream Biscuits 200g,Oreo,128,50,500,Healthy,76.8,2024-12-12
+INV00176,WH005,Lucknow WH,Uttar Pradesh,North,PRD020,Instant Noodles 75g,Maggi,180,147,1470,Healthy,36.7,2024-12-28
+INV00177,WH005,Lucknow WH,Uttar Pradesh,North,PRD021,Refined Sunflower Oil 1L,Fortune,129,85,850,Healthy,45.5,2024-12-02
+INV00178,WH005,Lucknow WH,Uttar Pradesh,North,PRD022,Masala Chai 250g,Tata Tea,262,91,910,Healthy,86.4,2024-12-10
+INV00179,WH005,Lucknow WH,Uttar Pradesh,North,PRD023,Instant Coffee 50g,Nescafe,42,72,720,Low Stock,17.5,2024-12-24
+INV00180,WH005,Lucknow WH,Uttar Pradesh,North,PRD024,Mixed Masala 100g,MDH,142,59,590,Healthy,72.2,2024-12-18
+INV00181,WH005,Lucknow WH,Uttar Pradesh,North,PRD025,Mixed Fruit Jam 250g,Kissan,402,52,520,Overstocked,231.9,2024-12-30
+INV00182,WH005,Lucknow WH,Uttar Pradesh,North,PRD026,Tomato Ketchup 500g,Heinz,96,124,1240,Low Stock,23.2,2024-12-31
+INV00183,WH005,Lucknow WH,Uttar Pradesh,North,PRD027,Cornflakes 500g,Kelloggs,12,81,810,Low Stock,4.4,2024-12-29
+INV00184,WH005,Lucknow WH,Uttar Pradesh,North,PRD028,Baby Lotion 200ml,Johnson's,315,125,1250,Healthy,75.6,2024-12-28
+INV00185,WH005,Lucknow WH,Uttar Pradesh,North,PRD029,Baby Wipes 80pcs,Pampers,70,96,960,Low Stock,21.9,2024-12-19
+INV00186,WH005,Lucknow WH,Uttar Pradesh,North,PRD030,Baby Powder 100g,Johnson's,19,78,780,Low Stock,7.3,2024-12-10
+INV00187,WH005,Lucknow WH,Uttar Pradesh,North,PRD031,Baby Shampoo 100ml,Himalaya,163,122,1220,Healthy,40.1,2024-12-12
+INV00188,WH005,Lucknow WH,Uttar Pradesh,North,PRD032,Diaper Pants M 30pcs,Huggies,489,170,1700,Healthy,86.3,2024-12-31
+INV00189,WH005,Lucknow WH,Uttar Pradesh,North,PRD033,Whey Protein 500g,Ensure,1022,146,1460,Overstocked,210.0,2024-12-12
+INV00190,WH005,Lucknow WH,Uttar Pradesh,North,PRD034,Immunity Syrup 200ml,Dabur Chyawanprash,138,69,690,Healthy,60.0,2024-12-14
+INV00191,WH005,Lucknow WH,Uttar Pradesh,North,PRD035,Pain Relief Gel 30g,Volini,213,103,1030,Healthy,62.0,2024-12-08
+INV00192,WH005,Lucknow WH,Uttar Pradesh,North,PRD036,Energy Bar 50g,RiteBite,116,54,540,Healthy,64.4,2024-12-23
+INV00193,WH005,Lucknow WH,Uttar Pradesh,North,PRD037,Mouthwash 250ml,Listerine,172,69,690,Healthy,74.8,2024-12-11
+INV00194,WH005,Lucknow WH,Uttar Pradesh,North,PRD038,Hand Sanitizer 100ml,Dettol,77,79,790,Low Stock,29.2,2024-12-24
+INV00195,WH005,Lucknow WH,Uttar Pradesh,North,PRD039,Glucose Powder 500g,Glucon-D,195,69,690,Healthy,84.8,2024-12-13
+INV00196,WH006,Ludhiana WH,Punjab,North,PRD001,Shampoo 200ml,Sunsilk,142,172,1720,Low Stock,24.8,2024-12-07
+INV00197,WH006,Ludhiana WH,Punjab,North,PRD002,Anti-Dandruff Shampoo,Head & Shoulders,329,141,1410,Healthy,70.0,2024-12-20
+INV00198,WH006,Ludhiana WH,Punjab,North,PRD003,Face Wash 100g,Himalaya,226,177,1770,Healthy,38.3,2024-12-10
+INV00199,WH006,Ludhiana WH,Punjab,North,PRD004,Body Lotion 300ml,Vaseline,40,125,1250,Low Stock,9.6,2024-12-29
+INV00200,WH006,Ludhiana WH,Punjab,North,PRD005,Talcum Powder 150g,Ponds,368,160,1600,Healthy,69.0,2024-12-26
+INV00201,WH006,Ludhiana WH,Punjab,North,PRD006,Herbal Hair Oil 100ml,Dabur Amla,73,72,720,Healthy,30.4,2024-12-22
+INV00202,WH006,Ludhiana WH,Punjab,North,PRD007,Whitening Toothpaste,Colgate,78,118,1180,Low Stock,19.8,2024-12-27
+INV00203,WH006,Ludhiana WH,Punjab,North,PRD008,Charcoal Toothpaste,Patanjali,40,81,810,Low Stock,14.8,2024-12-22
+INV00204,WH006,Ludhiana WH,Punjab,North,PRD009,Deo Spray 150ml,Axe,241,146,1460,Healthy,49.5,2024-12-23
+INV00205,WH006,Ludhiana WH,Punjab,North,PRD010,Perfume Deo 150ml,Fogg,189,88,880,Healthy,64.4,2024-12-13
+INV00206,WH006,Ludhiana WH,Punjab,North,PRD011,Moisturizing Soap 100g,Dove,1364,175,1750,Overstocked,233.8,2024-12-23
+INV00207,WH006,Ludhiana WH,Punjab,North,PRD012,Neem Soap 100g,Medimix,181,199,1990,Low Stock,27.3,2024-12-20
+INV00208,WH006,Ludhiana WH,Punjab,North,PRD013,Detergent Powder 1kg,Surf Excel,313,158,1580,Healthy,59.4,2024-12-15
+INV00209,WH006,Ludhiana WH,Punjab,North,PRD014,Fabric Softener 500ml,Comfort,179,69,690,Healthy,77.8,2025-01-01
+INV00210,WH006,Ludhiana WH,Punjab,North,PRD015,Dish Wash Liquid 500ml,Vim,14,105,1050,Low Stock,4.0,2024-12-07
+INV00211,WH006,Ludhiana WH,Punjab,North,PRD016,Floor Cleaner 1L,Lizol,142,70,700,Healthy,60.9,2024-12-17
+INV00212,WH006,Ludhiana WH,Punjab,North,PRD017,Toilet Cleaner 500ml,Harpic,448,189,1890,Healthy,71.1,2024-12-09
+INV00213,WH006,Ludhiana WH,Punjab,North,PRD018,All-Purpose Spray 400ml,Colin,38,110,1100,Low Stock,10.4,2024-12-10
+INV00214,WH006,Ludhiana WH,Punjab,North,PRD019,Cream Biscuits 200g,Oreo,210,121,1210,Healthy,52.1,2024-12-12
+INV00215,WH006,Ludhiana WH,Punjab,North,PRD020,Instant Noodles 75g,Maggi,235,194,1940,Healthy,36.3,2024-12-15
+INV00216,WH006,Ludhiana WH,Punjab,North,PRD021,Refined Sunflower Oil 1L,Fortune,216,133,1330,Healthy,48.7,2024-12-15
+INV00217,WH006,Ludhiana WH,Punjab,North,PRD022,Masala Chai 250g,Tata Tea,21,141,1410,Low Stock,4.5,2024-12-18
+INV00218,WH006,Ludhiana WH,Punjab,North,PRD023,Instant Coffee 50g,Nescafe,157,69,690,Healthy,68.3,2024-12-28
+INV00219,WH006,Ludhiana WH,Punjab,North,PRD024,Mixed Masala 100g,MDH,60,150,1500,Low Stock,12.0,2024-12-26
+INV00220,WH006,Ludhiana WH,Punjab,North,PRD025,Mixed Fruit Jam 250g,Kissan,522,181,1810,Healthy,86.5,2024-12-23
+INV00221,WH006,Ludhiana WH,Punjab,North,PRD026,Tomato Ketchup 500g,Heinz,335,119,1190,Healthy,84.5,2024-12-06
+INV00222,WH006,Ludhiana WH,Punjab,North,PRD027,Cornflakes 500g,Kelloggs,642,90,900,Overstocked,214.0,2024-12-18
+INV00223,WH006,Ludhiana WH,Punjab,North,PRD028,Baby Lotion 200ml,Johnson's,191,155,1550,Healthy,37.0,2024-12-03
+INV00224,WH006,Ludhiana WH,Punjab,North,PRD029,Baby Wipes 80pcs,Pampers,693,149,1490,Overstocked,139.5,2024-12-03
+INV00225,WH006,Ludhiana WH,Punjab,North,PRD030,Baby Powder 100g,Johnson's,14,131,1310,Low Stock,3.2,2024-12-30
+INV00226,WH006,Ludhiana WH,Punjab,North,PRD031,Baby Shampoo 100ml,Himalaya,334,198,1980,Healthy,50.6,2024-12-29
+INV00227,WH006,Ludhiana WH,Punjab,North,PRD032,Diaper Pants M 30pcs,Huggies,193,142,1420,Healthy,40.8,2024-12-22
+INV00228,WH006,Ludhiana WH,Punjab,North,PRD033,Whey Protein 500g,Ensure,28,95,950,Low Stock,8.8,2024-12-21
+INV00229,WH006,Ludhiana WH,Punjab,North,PRD034,Immunity Syrup 200ml,Dabur Chyawanprash,112,55,550,Healthy,61.1,2025-01-01
+INV00230,WH006,Ludhiana WH,Punjab,North,PRD035,Pain Relief Gel 30g,Volini,156,179,1790,Low Stock,26.1,2024-12-08
+INV00231,WH006,Ludhiana WH,Punjab,North,PRD036,Energy Bar 50g,RiteBite,10,168,1680,Low Stock,1.8,2024-12-24
+INV00232,WH006,Ludhiana WH,Punjab,North,PRD037,Mouthwash 250ml,Listerine,56,170,1700,Low Stock,9.9,2024-12-14
+INV00233,WH006,Ludhiana WH,Punjab,North,PRD038,Hand Sanitizer 100ml,Dettol,108,68,680,Healthy,47.6,2024-12-14
+INV00234,WH006,Ludhiana WH,Punjab,North,PRD039,Glucose Powder 500g,Glucon-D,135,134,1340,Healthy,30.2,2024-12-05
+INV00235,WH007,Chennai WH,Tamil Nadu,South,PRD001,Shampoo 200ml,Sunsilk,567,105,1050,Overstocked,162.0,2024-12-26
+INV00236,WH007,Chennai WH,Tamil Nadu,South,PRD002,Anti-Dandruff Shampoo,Head & Shoulders,473,189,1890,Healthy,75.1,2024-12-28
+INV00237,WH007,Chennai WH,Tamil Nadu,South,PRD003,Face Wash 100g,Himalaya,198,71,710,Healthy,83.7,2024-12-07
+INV00238,WH007,Chennai WH,Tamil Nadu,South,PRD004,Body Lotion 300ml,Vaseline,113,50,500,Healthy,67.8,2024-12-21
+INV00239,WH007,Chennai WH,Tamil Nadu,South,PRD005,Talcum Powder 150g,Ponds,22,61,610,Low Stock,10.8,2024-12-30
+INV00240,WH007,Chennai WH,Tamil Nadu,South,PRD006,Herbal Hair Oil 100ml,Dabur Amla,250,152,1520,Healthy,49.3,2024-12-11
+INV00241,WH007,Chennai WH,Tamil Nadu,South,PRD007,Whitening Toothpaste,Colgate,203,103,1030,Healthy,59.1,2024-12-25
+INV00242,WH007,Chennai WH,Tamil Nadu,South,PRD008,Charcoal Toothpaste,Patanjali,315,130,1300,Healthy,72.7,2024-12-04
+INV00243,WH007,Chennai WH,Tamil Nadu,South,PRD009,Deo Spray 150ml,Axe,162,60,600,Healthy,81.0,2024-12-31
+INV00244,WH007,Chennai WH,Tamil Nadu,South,PRD010,Perfume Deo 150ml,Fogg,240,121,1210,Healthy,59.5,2024-12-30
+INV00245,WH007,Chennai WH,Tamil Nadu,South,PRD011,Moisturizing Soap 100g,Dove,129,126,1260,Healthy,30.7,2025-01-01
+INV00246,WH007,Chennai WH,Tamil Nadu,South,PRD012,Neem Soap 100g,Medimix,98,135,1350,Low Stock,21.8,2024-12-23
+INV00247,WH007,Chennai WH,Tamil Nadu,South,PRD013,Detergent Powder 1kg,Surf Excel,322,126,1260,Healthy,76.7,2024-12-22
+INV00248,WH007,Chennai WH,Tamil Nadu,South,PRD014,Fabric Softener 500ml,Comfort,184,81,810,Healthy,68.1,2025-01-01
+INV00249,WH007,Chennai WH,Tamil Nadu,South,PRD015,Dish Wash Liquid 500ml,Vim,221,104,1040,Healthy,63.8,2024-12-17
+INV00250,WH007,Chennai WH,Tamil Nadu,South,PRD016,Floor Cleaner 1L,Lizol,244,83,830,Healthy,88.2,2024-12-05
+INV00251,WH007,Chennai WH,Tamil Nadu,South,PRD017,Toilet Cleaner 500ml,Harpic,610,86,860,Overstocked,212.8,2024-12-03
+INV00252,WH007,Chennai WH,Tamil Nadu,South,PRD018,All-Purpose Spray 400ml,Colin,408,149,1490,Healthy,82.1,2024-12-26
+INV00253,WH007,Chennai WH,Tamil Nadu,South,PRD019,Cream Biscuits 200g,Oreo,180,73,730,Healthy,74.0,2025-01-01
+INV00254,WH007,Chennai WH,Tamil Nadu,South,PRD020,Instant Noodles 75g,Maggi,206,119,1190,Healthy,51.9,2024-12-29
+INV00255,WH007,Chennai WH,Tamil Nadu,South,PRD021,Refined Sunflower Oil 1L,Fortune,215,76,760,Healthy,84.9,2024-12-21
+INV00256,WH007,Chennai WH,Tamil Nadu,South,PRD022,Masala Chai 250g,Tata Tea,97,60,600,Healthy,48.5,2024-12-04
+INV00257,WH007,Chennai WH,Tamil Nadu,South,PRD023,Instant Coffee 50g,Nescafe,146,191,1910,Low Stock,22.9,2024-12-08
+INV00258,WH007,Chennai WH,Tamil Nadu,South,PRD024,Mixed Masala 100g,MDH,90,85,850,Healthy,31.8,2024-12-31
+INV00259,WH007,Chennai WH,Tamil Nadu,South,PRD025,Mixed Fruit Jam 250g,Kissan,205,175,1750,Healthy,35.1,2024-12-02
+INV00260,WH007,Chennai WH,Tamil Nadu,South,PRD026,Tomato Ketchup 500g,Heinz,230,159,1590,Healthy,43.4,2024-12-24
+INV00261,WH007,Chennai WH,Tamil Nadu,South,PRD027,Cornflakes 500g,Kelloggs,354,121,1210,Healthy,87.8,2024-12-05
+INV00262,WH007,Chennai WH,Tamil Nadu,South,PRD028,Baby Lotion 200ml,Johnson's,171,93,930,Healthy,55.2,2024-12-27
+INV00263,WH007,Chennai WH,Tamil Nadu,South,PRD029,Baby Wipes 80pcs,Pampers,197,68,680,Healthy,86.9,2024-12-17
+INV00264,WH007,Chennai WH,Tamil Nadu,South,PRD030,Baby Powder 100g,Johnson's,156,106,1060,Healthy,44.2,2024-12-29
+INV00265,WH007,Chennai WH,Tamil Nadu,South,PRD031,Baby Shampoo 100ml,Himalaya,91,183,1830,Low Stock,14.9,2024-12-10
+INV00266,WH007,Chennai WH,Tamil Nadu,South,PRD032,Diaper Pants M 30pcs,Huggies,3,197,1970,Low Stock,0.5,2024-12-10
+INV00267,WH007,Chennai WH,Tamil Nadu,South,PRD033,Whey Protein 500g,Ensure,1482,189,1890,Overstocked,235.2,2024-12-15
+INV00268,WH007,Chennai WH,Tamil Nadu,South,PRD034,Immunity Syrup 200ml,Dabur Chyawanprash,213,115,1150,Healthy,55.6,2024-12-02
+INV00269,WH007,Chennai WH,Tamil Nadu,South,PRD035,Pain Relief Gel 30g,Volini,216,106,1060,Healthy,61.1,2024-12-24
+INV00270,WH007,Chennai WH,Tamil Nadu,South,PRD036,Energy Bar 50g,RiteBite,313,133,1330,Healthy,70.6,2024-12-04
+INV00271,WH007,Chennai WH,Tamil Nadu,South,PRD037,Mouthwash 250ml,Listerine,118,197,1970,Low Stock,18.0,2024-12-16
+INV00272,WH007,Chennai WH,Tamil Nadu,South,PRD038,Hand Sanitizer 100ml,Dettol,220,147,1470,Healthy,44.9,2024-12-02
+INV00273,WH007,Chennai WH,Tamil Nadu,South,PRD039,Glucose Powder 500g,Glucon-D,53,190,1900,Low Stock,8.4,2024-12-05
+INV00274,WH008,Bengaluru WH,Karnataka,South,PRD001,Shampoo 200ml,Sunsilk,185,143,1430,Healthy,38.8,2024-12-14
+INV00275,WH008,Bengaluru WH,Karnataka,South,PRD002,Anti-Dandruff Shampoo,Head & Shoulders,389,171,1710,Healthy,68.2,2024-12-04
+INV00276,WH008,Bengaluru WH,Karnataka,South,PRD003,Face Wash 100g,Himalaya,336,82,820,Overstocked,122.9,2024-12-23
+INV00277,WH008,Bengaluru WH,Karnataka,South,PRD004,Body Lotion 300ml,Vaseline,399,159,1590,Healthy,75.3,2024-12-27
+INV00278,WH008,Bengaluru WH,Karnataka,South,PRD005,Talcum Powder 150g,Ponds,194,146,1460,Healthy,39.9,2024-12-05
+INV00279,WH008,Bengaluru WH,Karnataka,South,PRD006,Herbal Hair Oil 100ml,Dabur Amla,112,55,550,Healthy,61.1,2024-12-04
+INV00280,WH008,Bengaluru WH,Karnataka,South,PRD007,Whitening Toothpaste,Colgate,18,92,920,Low Stock,5.9,2024-12-08
+INV00281,WH008,Bengaluru WH,Karnataka,South,PRD008,Charcoal Toothpaste,Patanjali,125,72,720,Healthy,52.1,2024-12-02
+INV00282,WH008,Bengaluru WH,Karnataka,South,PRD009,Deo Spray 150ml,Axe,45,186,1860,Low Stock,7.3,2024-12-14
+INV00283,WH008,Bengaluru WH,Karnataka,South,PRD010,Perfume Deo 150ml,Fogg,173,88,880,Healthy,59.0,2024-12-22
+INV00284,WH008,Bengaluru WH,Karnataka,South,PRD011,Moisturizing Soap 100g,Dove,109,54,540,Healthy,60.6,2024-12-02
+INV00285,WH008,Bengaluru WH,Karnataka,South,PRD012,Neem Soap 100g,Medimix,179,62,620,Healthy,86.6,2024-12-19
+INV00286,WH008,Bengaluru WH,Karnataka,South,PRD013,Detergent Powder 1kg,Surf Excel,123,126,1260,Low Stock,29.3,2025-01-01
+INV00287,WH008,Bengaluru WH,Karnataka,South,PRD014,Fabric Softener 500ml,Comfort,210,115,1150,Healthy,54.8,2024-12-05
+INV00288,WH008,Bengaluru WH,Karnataka,South,PRD015,Dish Wash Liquid 500ml,Vim,924,117,1170,Overstocked,236.9,2024-12-14
+INV00289,WH008,Bengaluru WH,Karnataka,South,PRD016,Floor Cleaner 1L,Lizol,274,127,1270,Healthy,64.7,2024-12-10
+INV00290,WH008,Bengaluru WH,Karnataka,South,PRD017,Toilet Cleaner 500ml,Harpic,1166,181,1810,Overstocked,193.3,2024-12-29
+INV00291,WH008,Bengaluru WH,Karnataka,South,PRD018,All-Purpose Spray 400ml,Colin,39,72,720,Low Stock,16.2,2024-12-24
+INV00292,WH008,Bengaluru WH,Karnataka,South,PRD019,Cream Biscuits 200g,Oreo,179,166,1660,Healthy,32.3,2024-12-31
+INV00293,WH008,Bengaluru WH,Karnataka,South,PRD020,Instant Noodles 75g,Maggi,74,90,900,Low Stock,24.7,2024-12-09
+INV00294,WH008,Bengaluru WH,Karnataka,South,PRD021,Refined Sunflower Oil 1L,Fortune,480,189,1890,Healthy,76.2,2024-12-08
+INV00295,WH008,Bengaluru WH,Karnataka,South,PRD022,Masala Chai 250g,Tata Tea,447,159,1590,Healthy,84.3,2024-12-15
+INV00296,WH008,Bengaluru WH,Karnataka,South,PRD023,Instant Coffee 50g,Nescafe,214,144,1440,Healthy,44.6,2024-12-27
+INV00297,WH008,Bengaluru WH,Karnataka,South,PRD024,Mixed Masala 100g,MDH,935,190,1900,Overstocked,147.6,2024-12-02
+INV00298,WH008,Bengaluru WH,Karnataka,South,PRD025,Mixed Fruit Jam 250g,Kissan,173,67,670,Healthy,77.5,2024-12-06
+INV00299,WH008,Bengaluru WH,Karnataka,South,PRD026,Tomato Ketchup 500g,Heinz,143,93,930,Healthy,46.1,2024-12-23
+INV00300,WH008,Bengaluru WH,Karnataka,South,PRD027,Cornflakes 500g,Kelloggs,789,153,1530,Overstocked,154.7,2024-12-23
+INV00301,WH008,Bengaluru WH,Karnataka,South,PRD028,Baby Lotion 200ml,Johnson's,371,196,1960,Healthy,56.8,2024-12-20
+INV00302,WH008,Bengaluru WH,Karnataka,South,PRD029,Baby Wipes 80pcs,Pampers,415,190,1900,Healthy,65.5,2024-12-10
+INV00303,WH008,Bengaluru WH,Karnataka,South,PRD030,Baby Powder 100g,Johnson's,98,140,1400,Low Stock,21.0,2024-12-19
+INV00304,WH008,Bengaluru WH,Karnataka,South,PRD031,Baby Shampoo 100ml,Himalaya,135,87,870,Healthy,46.6,2024-12-28
+INV00305,WH008,Bengaluru WH,Karnataka,South,PRD032,Diaper Pants M 30pcs,Huggies,102,57,570,Healthy,53.7,2024-12-02
+INV00306,WH008,Bengaluru WH,Karnataka,South,PRD033,Whey Protein 500g,Ensure,240,164,1640,Healthy,43.9,2024-12-28
+INV00307,WH008,Bengaluru WH,Karnataka,South,PRD034,Immunity Syrup 200ml,Dabur Chyawanprash,33,165,1650,Low Stock,6.0,2024-12-05
+INV00308,WH008,Bengaluru WH,Karnataka,South,PRD035,Pain Relief Gel 30g,Volini,55,85,850,Low Stock,19.4,2024-12-09
+INV00309,WH008,Bengaluru WH,Karnataka,South,PRD036,Energy Bar 50g,RiteBite,228,100,1000,Healthy,68.4,2024-12-12
+INV00310,WH008,Bengaluru WH,Karnataka,South,PRD037,Mouthwash 250ml,Listerine,364,164,1640,Healthy,66.6,2024-12-27
+INV00311,WH008,Bengaluru WH,Karnataka,South,PRD038,Hand Sanitizer 100ml,Dettol,118,156,1560,Low Stock,22.7,2024-12-07
+INV00312,WH008,Bengaluru WH,Karnataka,South,PRD039,Glucose Powder 500g,Glucon-D,73,62,620,Healthy,35.3,2024-12-08
+INV00313,WH009,Hyderabad WH,Telangana,South,PRD001,Shampoo 200ml,Sunsilk,8,62,620,Low Stock,3.9,2024-12-30
+INV00314,WH009,Hyderabad WH,Telangana,South,PRD002,Anti-Dandruff Shampoo,Head & Shoulders,248,106,1060,Healthy,70.2,2024-12-09
+INV00315,WH009,Hyderabad WH,Telangana,South,PRD003,Face Wash 100g,Himalaya,84,72,720,Healthy,35.0,2024-12-06
+INV00316,WH009,Hyderabad WH,Telangana,South,PRD004,Body Lotion 300ml,Vaseline,559,92,920,Overstocked,182.3,2024-12-08
+INV00317,WH009,Hyderabad WH,Telangana,South,PRD005,Talcum Powder 150g,Ponds,89,57,570,Healthy,46.8,2025-01-01
+INV00318,WH009,Hyderabad WH,Telangana,South,PRD006,Herbal Hair Oil 100ml,Dabur Amla,135,96,960,Healthy,42.2,2024-12-11
+INV00319,WH009,Hyderabad WH,Telangana,South,PRD007,Whitening Toothpaste,Colgate,368,178,1780,Healthy,62.0,2024-12-13
+INV00320,WH009,Hyderabad WH,Telangana,South,PRD008,Charcoal Toothpaste,Patanjali,797,138,1380,Overstocked,173.3,2024-12-26
+INV00321,WH009,Hyderabad WH,Telangana,South,PRD009,Deo Spray 150ml,Axe,372,153,1530,Healthy,72.9,2024-12-22
+INV00322,WH009,Hyderabad WH,Telangana,South,PRD010,Perfume Deo 150ml,Fogg,153,99,990,Healthy,46.4,2024-12-08
+INV00323,WH009,Hyderabad WH,Telangana,South,PRD011,Moisturizing Soap 100g,Dove,393,149,1490,Healthy,79.1,2024-12-27
+INV00324,WH009,Hyderabad WH,Telangana,South,PRD012,Neem Soap 100g,Medimix,303,139,1390,Healthy,65.4,2024-12-16
+INV00325,WH009,Hyderabad WH,Telangana,South,PRD013,Detergent Powder 1kg,Surf Excel,555,72,720,Overstocked,231.2,2024-12-17
+INV00326,WH009,Hyderabad WH,Telangana,South,PRD014,Fabric Softener 500ml,Comfort,234,165,1650,Healthy,42.5,2024-12-17
+INV00327,WH009,Hyderabad WH,Telangana,South,PRD015,Dish Wash Liquid 500ml,Vim,513,174,1740,Healthy,88.4,2024-12-28
+INV00328,WH009,Hyderabad WH,Telangana,South,PRD016,Floor Cleaner 1L,Lizol,763,164,1640,Overstocked,139.6,2024-12-29
+INV00329,WH009,Hyderabad WH,Telangana,South,PRD017,Toilet Cleaner 500ml,Harpic,165,151,1510,Healthy,32.8,2024-12-22
+INV00330,WH009,Hyderabad WH,Telangana,South,PRD018,All-Purpose Spray 400ml,Colin,502,174,1740,Healthy,86.6,2024-12-12
+INV00331,WH009,Hyderabad WH,Telangana,South,PRD019,Cream Biscuits 200g,Oreo,40,84,840,Low Stock,14.3,2024-12-22
+INV00332,WH009,Hyderabad WH,Telangana,South,PRD020,Instant Noodles 75g,Maggi,17,120,1200,Low Stock,4.2,2024-12-15
+INV00333,WH009,Hyderabad WH,Telangana,South,PRD021,Refined Sunflower Oil 1L,Fortune,368,139,1390,Healthy,79.4,2024-12-07
+INV00334,WH009,Hyderabad WH,Telangana,South,PRD022,Masala Chai 250g,Tata Tea,175,110,1100,Healthy,47.7,2024-12-24
+INV00335,WH009,Hyderabad WH,Telangana,South,PRD023,Instant Coffee 50g,Nescafe,101,76,760,Healthy,39.9,2024-12-28
+INV00336,WH009,Hyderabad WH,Telangana,South,PRD024,Mixed Masala 100g,MDH,27,64,640,Low Stock,12.7,2024-12-29
+INV00337,WH009,Hyderabad WH,Telangana,South,PRD025,Mixed Fruit Jam 250g,Kissan,32,129,1290,Low Stock,7.4,2024-12-28
+INV00338,WH009,Hyderabad WH,Telangana,South,PRD026,Tomato Ketchup 500g,Heinz,189,70,700,Healthy,81.0,2024-12-25
+INV00339,WH009,Hyderabad WH,Telangana,South,PRD027,Cornflakes 500g,Kelloggs,22,84,840,Low Stock,7.9,2024-12-23
+INV00340,WH009,Hyderabad WH,Telangana,South,PRD028,Baby Lotion 200ml,Johnson's,162,132,1320,Healthy,36.8,2024-12-25
+INV00341,WH009,Hyderabad WH,Telangana,South,PRD029,Baby Wipes 80pcs,Pampers,41,185,1850,Low Stock,6.6,2024-12-02
+INV00342,WH009,Hyderabad WH,Telangana,South,PRD030,Baby Powder 100g,Johnson's,86,148,1480,Low Stock,17.4,2024-12-16
+INV00343,WH009,Hyderabad WH,Telangana,South,PRD031,Baby Shampoo 100ml,Himalaya,55,75,750,Low Stock,22.0,2024-12-31
+INV00344,WH009,Hyderabad WH,Telangana,South,PRD032,Diaper Pants M 30pcs,Huggies,1065,198,1980,Overstocked,161.4,2024-12-08
+INV00345,WH009,Hyderabad WH,Telangana,South,PRD033,Whey Protein 500g,Ensure,325,113,1130,Healthy,86.3,2024-12-30
+INV00346,WH009,Hyderabad WH,Telangana,South,PRD034,Immunity Syrup 200ml,Dabur Chyawanprash,169,117,1170,Healthy,43.3,2024-12-29
+INV00347,WH009,Hyderabad WH,Telangana,South,PRD035,Pain Relief Gel 30g,Volini,370,124,1240,Healthy,89.5,2024-12-16
+INV00348,WH009,Hyderabad WH,Telangana,South,PRD036,Energy Bar 50g,RiteBite,74,58,580,Healthy,38.3,2024-12-22
+INV00349,WH009,Hyderabad WH,Telangana,South,PRD037,Mouthwash 250ml,Listerine,114,78,780,Healthy,43.8,2024-12-22
+INV00350,WH009,Hyderabad WH,Telangana,South,PRD038,Hand Sanitizer 100ml,Dettol,345,173,1730,Healthy,59.8,2024-12-22
+INV00351,WH009,Hyderabad WH,Telangana,South,PRD039,Glucose Powder 500g,Glucon-D,375,71,710,Overstocked,158.5,2024-12-11
+INV00352,WH010,Kolkata WH,West Bengal,East,PRD001,Shampoo 200ml,Sunsilk,270,150,1500,Healthy,54.0,2024-12-30
+INV00353,WH010,Kolkata WH,West Bengal,East,PRD002,Anti-Dandruff Shampoo,Head & Shoulders,155,199,1990,Low Stock,23.4,2024-12-14
+INV00354,WH010,Kolkata WH,West Bengal,East,PRD003,Face Wash 100g,Himalaya,67,103,1030,Low Stock,19.5,2024-12-26
+INV00355,WH010,Kolkata WH,West Bengal,East,PRD004,Body Lotion 300ml,Vaseline,308,176,1760,Healthy,52.5,2024-12-11
+INV00356,WH010,Kolkata WH,West Bengal,East,PRD005,Talcum Powder 150g,Ponds,216,135,1350,Healthy,48.0,2024-12-24
+INV00357,WH010,Kolkata WH,West Bengal,East,PRD006,Herbal Hair Oil 100ml,Dabur Amla,256,132,1320,Healthy,58.2,2024-12-21
+INV00358,WH010,Kolkata WH,West Bengal,East,PRD007,Whitening Toothpaste,Colgate,203,164,1640,Healthy,37.1,2024-12-20
+INV00359,WH010,Kolkata WH,West Bengal,East,PRD008,Charcoal Toothpaste,Patanjali,175,163,1630,Healthy,32.2,2024-12-30
+INV00360,WH010,Kolkata WH,West Bengal,East,PRD009,Deo Spray 150ml,Axe,3,85,850,Low Stock,1.1,2024-12-03
+INV00361,WH010,Kolkata WH,West Bengal,East,PRD010,Perfume Deo 150ml,Fogg,34,68,680,Low Stock,15.0,2024-12-21
+INV00362,WH010,Kolkata WH,West Bengal,East,PRD011,Moisturizing Soap 100g,Dove,670,166,1660,Overstocked,121.1,2024-12-29
+INV00363,WH010,Kolkata WH,West Bengal,East,PRD012,Neem Soap 100g,Medimix,309,159,1590,Healthy,58.3,2024-12-18
+INV00364,WH010,Kolkata WH,West Bengal,East,PRD013,Detergent Powder 1kg,Surf Excel,250,61,610,Overstocked,123.0,2024-12-27
+INV00365,WH010,Kolkata WH,West Bengal,East,PRD014,Fabric Softener 500ml,Comfort,270,154,1540,Healthy,52.6,2024-12-30
+INV00366,WH010,Kolkata WH,West Bengal,East,PRD015,Dish Wash Liquid 500ml,Vim,161,114,1140,Healthy,42.4,2025-01-01
+INV00367,WH010,Kolkata WH,West Bengal,East,PRD016,Floor Cleaner 1L,Lizol,100,108,1080,Low Stock,27.8,2024-12-08
+INV00368,WH010,Kolkata WH,West Bengal,East,PRD017,Toilet Cleaner 500ml,Harpic,140,101,1010,Healthy,41.6,2024-12-05
+INV00369,WH010,Kolkata WH,West Bengal,East,PRD018,All-Purpose Spray 400ml,Colin,173,124,1240,Healthy,41.9,2024-12-12
+INV00370,WH010,Kolkata WH,West Bengal,East,PRD019,Cream Biscuits 200g,Oreo,73,56,560,Healthy,39.1,2024-12-26
+INV00371,WH010,Kolkata WH,West Bengal,East,PRD020,Instant Noodles 75g,Maggi,271,136,1360,Healthy,59.8,2024-12-30
+INV00372,WH010,Kolkata WH,West Bengal,East,PRD021,Refined Sunflower Oil 1L,Fortune,144,149,1490,Low Stock,29.0,2024-12-12
+INV00373,WH010,Kolkata WH,West Bengal,East,PRD022,Masala Chai 250g,Tata Tea,852,166,1660,Overstocked,154.0,2025-01-01
+INV00374,WH010,Kolkata WH,West Bengal,East,PRD023,Instant Coffee 50g,Nescafe,52,156,1560,Low Stock,10.0,2024-12-19
+INV00375,WH010,Kolkata WH,West Bengal,East,PRD024,Mixed Masala 100g,MDH,205,128,1280,Healthy,48.0,2024-12-04
+INV00376,WH010,Kolkata WH,West Bengal,East,PRD025,Mixed Fruit Jam 250g,Kissan,149,109,1090,Healthy,41.0,2024-12-02
+INV00377,WH010,Kolkata WH,West Bengal,East,PRD026,Tomato Ketchup 500g,Heinz,158,65,650,Healthy,72.9,2024-12-02
+INV00378,WH010,Kolkata WH,West Bengal,East,PRD027,Cornflakes 500g,Kelloggs,198,76,760,Healthy,78.2,2024-12-04
+INV00379,WH010,Kolkata WH,West Bengal,East,PRD028,Baby Lotion 200ml,Johnson's,277,159,1590,Healthy,52.3,2024-12-08
+INV00380,WH010,Kolkata WH,West Bengal,East,PRD029,Baby Wipes 80pcs,Pampers,417,152,1520,Healthy,82.3,2024-12-31
+INV00381,WH010,Kolkata WH,West Bengal,East,PRD030,Baby Powder 100g,Johnson's,108,130,1300,Low Stock,24.9,2024-12-18
+INV00382,WH010,Kolkata WH,West Bengal,East,PRD031,Baby Shampoo 100ml,Himalaya,92,145,1450,Low Stock,19.0,2024-12-18
+INV00383,WH010,Kolkata WH,West Bengal,East,PRD032,Diaper Pants M 30pcs,Huggies,761,121,1210,Overstocked,188.7,2024-12-12
+INV00384,WH010,Kolkata WH,West Bengal,East,PRD033,Whey Protein 500g,Ensure,631,98,980,Overstocked,193.2,2024-12-03
+INV00385,WH010,Kolkata WH,West Bengal,East,PRD034,Immunity Syrup 200ml,Dabur Chyawanprash,131,129,1290,Healthy,30.5,2024-12-12
+INV00386,WH010,Kolkata WH,West Bengal,East,PRD035,Pain Relief Gel 30g,Volini,283,133,1330,Healthy,63.8,2024-12-13
+INV00387,WH010,Kolkata WH,West Bengal,East,PRD036,Energy Bar 50g,RiteBite,152,79,790,Healthy,57.7,2024-12-27
+INV00388,WH010,Kolkata WH,West Bengal,East,PRD037,Mouthwash 250ml,Listerine,234,87,870,Healthy,80.7,2024-12-31
+INV00389,WH010,Kolkata WH,West Bengal,East,PRD038,Hand Sanitizer 100ml,Dettol,79,96,960,Low Stock,24.7,2024-12-04
+INV00390,WH010,Kolkata WH,West Bengal,East,PRD039,Glucose Powder 500g,Glucon-D,180,88,880,Healthy,61.4,2024-12-12
+INV00391,WH011,Bhopal WH,Madhya Pradesh,Central,PRD001,Shampoo 200ml,Sunsilk,292,187,1870,Healthy,46.8,2024-12-10
+INV00392,WH011,Bhopal WH,Madhya Pradesh,Central,PRD002,Anti-Dandruff Shampoo,Head & Shoulders,85,174,1740,Low Stock,14.7,2024-12-05
+INV00393,WH011,Bhopal WH,Madhya Pradesh,Central,PRD003,Face Wash 100g,Himalaya,414,84,840,Overstocked,147.9,2024-12-07
+INV00394,WH011,Bhopal WH,Madhya Pradesh,Central,PRD004,Body Lotion 300ml,Vaseline,375,170,1700,Healthy,66.2,2024-12-19
+INV00395,WH011,Bhopal WH,Madhya Pradesh,Central,PRD005,Talcum Powder 150g,Ponds,225,195,1950,Healthy,34.6,2024-12-14
+INV00396,WH011,Bhopal WH,Madhya Pradesh,Central,PRD006,Herbal Hair Oil 100ml,Dabur Amla,1334,197,1970,Overstocked,203.1,2024-12-13
+INV00397,WH011,Bhopal WH,Madhya Pradesh,Central,PRD007,Whitening Toothpaste,Colgate,10,122,1220,Low Stock,2.5,2024-12-11
+INV00398,WH011,Bhopal WH,Madhya Pradesh,Central,PRD008,Charcoal Toothpaste,Patanjali,130,96,960,Healthy,40.6,2024-12-30
+INV00399,WH011,Bhopal WH,Madhya Pradesh,Central,PRD009,Deo Spray 150ml,Axe,21,75,750,Low Stock,8.4,2024-12-21
+INV00400,WH011,Bhopal WH,Madhya Pradesh,Central,PRD010,Perfume Deo 150ml,Fogg,115,88,880,Healthy,39.2,2024-12-31
+INV00401,WH011,Bhopal WH,Madhya Pradesh,Central,PRD011,Moisturizing Soap 100g,Dove,68,150,1500,Low Stock,13.6,2024-12-25
+INV00402,WH011,Bhopal WH,Madhya Pradesh,Central,PRD012,Neem Soap 100g,Medimix,191,78,780,Healthy,73.5,2024-12-05
+INV00403,WH011,Bhopal WH,Madhya Pradesh,Central,PRD013,Detergent Powder 1kg,Surf Excel,194,67,670,Healthy,86.9,2024-12-15
+INV00404,WH011,Bhopal WH,Madhya Pradesh,Central,PRD014,Fabric Softener 500ml,Comfort,358,157,1570,Healthy,68.4,2024-12-06
+INV00405,WH011,Bhopal WH,Madhya Pradesh,Central,PRD015,Dish Wash Liquid 500ml,Vim,147,142,1420,Healthy,31.1,2024-12-31
+INV00406,WH011,Bhopal WH,Madhya Pradesh,Central,PRD016,Floor Cleaner 1L,Lizol,617,152,1520,Overstocked,121.8,2024-12-18
+INV00407,WH011,Bhopal WH,Madhya Pradesh,Central,PRD017,Toilet Cleaner 500ml,Harpic,68,179,1790,Low Stock,11.4,2024-12-10
+INV00408,WH011,Bhopal WH,Madhya Pradesh,Central,PRD018,All-Purpose Spray 400ml,Colin,512,114,1140,Overstocked,134.7,2024-12-15
+INV00409,WH011,Bhopal WH,Madhya Pradesh,Central,PRD019,Cream Biscuits 200g,Oreo,215,177,1770,Healthy,36.4,2024-12-24
+INV00410,WH011,Bhopal WH,Madhya Pradesh,Central,PRD020,Instant Noodles 75g,Maggi,1226,182,1820,Overstocked,202.1,2024-12-18
+INV00411,WH011,Bhopal WH,Madhya Pradesh,Central,PRD021,Refined Sunflower Oil 1L,Fortune,41,75,750,Low Stock,16.4,2024-12-11
+INV00412,WH011,Bhopal WH,Madhya Pradesh,Central,PRD022,Masala Chai 250g,Tata Tea,433,145,1450,Healthy,89.6,2024-12-08
+INV00413,WH011,Bhopal WH,Madhya Pradesh,Central,PRD023,Instant Coffee 50g,Nescafe,1171,150,1500,Overstocked,234.2,2024-12-31
+INV00414,WH011,Bhopal WH,Madhya Pradesh,Central,PRD024,Mixed Masala 100g,MDH,191,81,810,Healthy,70.7,2024-12-03
+INV00415,WH011,Bhopal WH,Madhya Pradesh,Central,PRD025,Mixed Fruit Jam 250g,Kissan,195,118,1180,Healthy,49.6,2024-12-15
+INV00416,WH011,Bhopal WH,Madhya Pradesh,Central,PRD026,Tomato Ketchup 500g,Heinz,1089,160,1600,Overstocked,204.2,2024-12-14
+INV00417,WH011,Bhopal WH,Madhya Pradesh,Central,PRD027,Cornflakes 500g,Kelloggs,170,169,1690,Healthy,30.2,2024-12-06
+INV00418,WH011,Bhopal WH,Madhya Pradesh,Central,PRD028,Baby Lotion 200ml,Johnson's,384,194,1940,Healthy,59.4,2024-12-22
+INV00419,WH011,Bhopal WH,Madhya Pradesh,Central,PRD029,Baby Wipes 80pcs,Pampers,433,190,1900,Healthy,68.4,2024-12-13
+INV00420,WH011,Bhopal WH,Madhya Pradesh,Central,PRD030,Baby Powder 100g,Johnson's,58,68,680,Low Stock,25.6,2025-01-01
+INV00421,WH011,Bhopal WH,Madhya Pradesh,Central,PRD031,Baby Shampoo 100ml,Himalaya,336,128,1280,Healthy,78.8,2024-12-16
+INV00422,WH011,Bhopal WH,Madhya Pradesh,Central,PRD032,Diaper Pants M 30pcs,Huggies,107,160,1600,Low Stock,20.1,2024-12-13
+INV00423,WH011,Bhopal WH,Madhya Pradesh,Central,PRD033,Whey Protein 500g,Ensure,137,148,1480,Low Stock,27.8,2024-12-11
+INV00424,WH011,Bhopal WH,Madhya Pradesh,Central,PRD034,Immunity Syrup 200ml,Dabur Chyawanprash,38,183,1830,Low Stock,6.2,2024-12-25
+INV00425,WH011,Bhopal WH,Madhya Pradesh,Central,PRD035,Pain Relief Gel 30g,Volini,336,170,1700,Healthy,59.3,2024-12-03
+INV00426,WH011,Bhopal WH,Madhya Pradesh,Central,PRD036,Energy Bar 50g,RiteBite,214,87,870,Healthy,73.8,2024-12-12
+INV00427,WH011,Bhopal WH,Madhya Pradesh,Central,PRD037,Mouthwash 250ml,Listerine,270,100,1000,Healthy,81.0,2024-12-29
+INV00428,WH011,Bhopal WH,Madhya Pradesh,Central,PRD038,Hand Sanitizer 100ml,Dettol,66,74,740,Low Stock,26.8,2025-01-01
+INV00429,WH011,Bhopal WH,Madhya Pradesh,Central,PRD039,Glucose Powder 500g,Glucon-D,190,69,690,Healthy,82.6,2024-12-02
+INV00430,WH012,Patna WH,Bihar,East,PRD001,Shampoo 200ml,Sunsilk,205,78,780,Healthy,78.8,2024-12-19
+INV00431,WH012,Patna WH,Bihar,East,PRD002,Anti-Dandruff Shampoo,Head & Shoulders,196,72,720,Healthy,81.7,2024-12-29
+INV00432,WH012,Patna WH,Bihar,East,PRD003,Face Wash 100g,Himalaya,173,139,1390,Healthy,37.3,2024-12-29
+INV00433,WH012,Patna WH,Bihar,East,PRD004,Body Lotion 300ml,Vaseline,311,146,1460,Healthy,63.9,2024-12-20
+INV00434,WH012,Patna WH,Bihar,East,PRD005,Talcum Powder 150g,Ponds,107,123,1230,Low Stock,26.1,2024-12-13
+INV00435,WH012,Patna WH,Bihar,East,PRD006,Herbal Hair Oil 100ml,Dabur Amla,156,89,890,Healthy,52.6,2024-12-25
+INV00436,WH012,Patna WH,Bihar,East,PRD007,Whitening Toothpaste,Colgate,466,194,1940,Healthy,72.1,2024-12-29
+INV00437,WH012,Patna WH,Bihar,East,PRD008,Charcoal Toothpaste,Patanjali,103,151,1510,Low Stock,20.5,2024-12-05
+INV00438,WH012,Patna WH,Bihar,East,PRD009,Deo Spray 150ml,Axe,143,85,850,Healthy,50.5,2024-12-10
+INV00439,WH012,Patna WH,Bihar,East,PRD010,Perfume Deo 150ml,Fogg,31,175,1750,Low Stock,5.3,2024-12-18
+INV00440,WH012,Patna WH,Bihar,East,PRD011,Moisturizing Soap 100g,Dove,363,142,1420,Healthy,76.7,2024-12-03
+INV00441,WH012,Patna WH,Bihar,East,PRD012,Neem Soap 100g,Medimix,165,191,1910,Low Stock,25.9,2024-12-29
+INV00442,WH012,Patna WH,Bihar,East,PRD013,Detergent Powder 1kg,Surf Excel,222,154,1540,Healthy,43.2,2024-12-16
+INV00443,WH012,Patna WH,Bihar,East,PRD014,Fabric Softener 500ml,Comfort,229,110,1100,Healthy,62.5,2024-12-14
+INV00444,WH012,Patna WH,Bihar,East,PRD015,Dish Wash Liquid 500ml,Vim,161,83,830,Healthy,58.2,2024-12-04
+INV00445,WH012,Patna WH,Bihar,East,PRD016,Floor Cleaner 1L,Lizol,4,198,1980,Low Stock,0.6,2024-12-07
+INV00446,WH012,Patna WH,Bihar,East,PRD017,Toilet Cleaner 500ml,Harpic,1411,196,1960,Overstocked,216.0,2024-12-18
+INV00447,WH012,Patna WH,Bihar,East,PRD018,All-Purpose Spray 400ml,Colin,570,130,1300,Overstocked,131.5,2024-12-28
+INV00448,WH012,Patna WH,Bihar,East,PRD019,Cream Biscuits 200g,Oreo,524,111,1110,Overstocked,141.6,2024-12-15
+INV00449,WH012,Patna WH,Bihar,East,PRD020,Instant Noodles 75g,Maggi,353,122,1220,Healthy,86.8,2024-12-11
+INV00450,WH012,Patna WH,Bihar,East,PRD021,Refined Sunflower Oil 1L,Fortune,882,162,1620,Overstocked,163.3,2024-12-23
+INV00451,WH012,Patna WH,Bihar,East,PRD022,Masala Chai 250g,Tata Tea,164,102,1020,Healthy,48.2,2024-12-05
+INV00452,WH012,Patna WH,Bihar,East,PRD023,Instant Coffee 50g,Nescafe,140,145,1450,Low Stock,29.0,2024-12-21
+INV00453,WH012,Patna WH,Bihar,East,PRD024,Mixed Masala 100g,MDH,645,138,1380,Overstocked,140.2,2024-12-11
+INV00454,WH012,Patna WH,Bihar,East,PRD025,Mixed Fruit Jam 250g,Kissan,118,69,690,Healthy,51.3,2024-12-04
+INV00455,WH012,Patna WH,Bihar,East,PRD026,Tomato Ketchup 500g,Heinz,310,145,1450,Healthy,64.1,2024-12-10
+INV00456,WH012,Patna WH,Bihar,East,PRD027,Cornflakes 500g,Kelloggs,22,61,610,Low Stock,10.8,2024-12-07
+INV00457,WH012,Patna WH,Bihar,East,PRD028,Baby Lotion 200ml,Johnson's,109,69,690,Healthy,47.4,2024-12-02
+INV00458,WH012,Patna WH,Bihar,East,PRD029,Baby Wipes 80pcs,Pampers,762,182,1820,Overstocked,125.6,2024-12-03
+INV00459,WH012,Patna WH,Bihar,East,PRD030,Baby Powder 100g,Johnson's,362,155,1550,Healthy,70.1,2024-12-29
+INV00460,WH012,Patna WH,Bihar,East,PRD031,Baby Shampoo 100ml,Himalaya,122,53,530,Healthy,69.1,2024-12-22
+INV00461,WH012,Patna WH,Bihar,East,PRD032,Diaper Pants M 30pcs,Huggies,95,68,680,Healthy,41.9,2024-12-29
+INV00462,WH012,Patna WH,Bihar,East,PRD033,Whey Protein 500g,Ensure,147,98,980,Healthy,45.0,2024-12-13
+INV00463,WH012,Patna WH,Bihar,East,PRD034,Immunity Syrup 200ml,Dabur Chyawanprash,239,95,950,Healthy,75.5,2024-12-23
+INV00464,WH012,Patna WH,Bihar,East,PRD035,Pain Relief Gel 30g,Volini,205,76,760,Healthy,80.9,2024-12-08
+INV00465,WH012,Patna WH,Bihar,East,PRD036,Energy Bar 50g,RiteBite,326,151,1510,Healthy,64.8,2024-12-17
+INV00466,WH012,Patna WH,Bihar,East,PRD037,Mouthwash 250ml,Listerine,3,94,940,Low Stock,1.0,2024-12-04
+INV00467,WH012,Patna WH,Bihar,East,PRD038,Hand Sanitizer 100ml,Dettol,146,140,1400,Healthy,31.3,2024-12-02
+INV00468,WH012,Patna WH,Bihar,East,PRD039,Glucose Powder 500g,Glucon-D,103,89,890,Healthy,34.7,2024-12-07

@@ -1,0 +1,40 @@
+product_id,product_name,brand_name,category,sub_category,unit_price,mrp,margin_pct,launch_year,is_premium,pack_size
+PRD001,Shampoo 200ml,Sunsilk,Personal Care,Hair Care,117.59,146.12,19.5,2020,No,1kg
+PRD002,Anti-Dandruff Shampoo,Head & Shoulders,Personal Care,Hair Care,151.49,180.2,15.9,2019,Yes,50g
+PRD003,Face Wash 100g,Himalaya,Personal Care,Skin Care,89.77,99.53,9.8,2022,No,50g
+PRD004,Body Lotion 300ml,Vaseline,Personal Care,Skin Care,177.83,214.5,17.1,2022,Yes,1kg
+PRD005,Talcum Powder 150g,Ponds,Personal Care,Skin Care,64.51,79.02,18.4,2019,No,200ml
+PRD006,Herbal Hair Oil 100ml,Dabur Amla,Personal Care,Hair Care,80.67,90.96,11.3,2021,No,100g
+PRD007,Whitening Toothpaste,Colgate,Personal Care,Oral Care,71.25,78.45,9.2,2018,No,100g
+PRD008,Charcoal Toothpaste,Patanjali,Personal Care,Oral Care,53.16,63.35,16.1,2019,No,100g
+PRD009,Deo Spray 150ml,Axe,Personal Care,Fragrance,134.48,167.57,19.7,2020,No,1kg
+PRD010,Perfume Deo 150ml,Fogg,Personal Care,Fragrance,176.61,220.32,19.8,2018,Yes,50g
+PRD011,Moisturizing Soap 100g,Dove,Personal Care,Bathing,41.73,49.71,16.1,2022,No,1kg
+PRD012,Neem Soap 100g,Medimix,Personal Care,Bathing,34.72,38.26,9.3,2018,No,1kg
+PRD013,Detergent Powder 1kg,Surf Excel,Home Care,Laundry,193.41,236.2,18.1,2018,Yes,500ml
+PRD014,Fabric Softener 500ml,Comfort,Home Care,Laundry,119.93,136.08,11.9,2021,No,50g
+PRD015,Dish Wash Liquid 500ml,Vim,Home Care,Kitchen,89.14,99.69,10.6,2022,No,500ml
+PRD016,Floor Cleaner 1L,Lizol,Home Care,Cleaning,115.86,130.46,11.2,2018,No,250g
+PRD017,Toilet Cleaner 500ml,Harpic,Home Care,Cleaning,91.33,109.54,16.6,2019,No,50g
+PRD018,All-Purpose Spray 400ml,Colin,Home Care,Cleaning,83.98,95.0,11.6,2021,No,50g
+PRD019,Cream Biscuits 200g,Oreo,Food & Beverages,Snacks,37.98,47.3,19.7,2019,No,50g
+PRD020,Instant Noodles 75g,Maggi,Food & Beverages,Instant Food,14.88,17.25,13.7,2021,No,100g
+PRD021,Refined Sunflower Oil 1L,Fortune,Food & Beverages,Edible Oil,147.27,182.36,19.2,2021,No,100g
+PRD022,Masala Chai 250g,Tata Tea,Food & Beverages,Beverages,111.27,127.83,13.0,2022,No,500ml
+PRD023,Instant Coffee 50g,Nescafe,Food & Beverages,Beverages,91.52,112.05,18.3,2019,No,500ml
+PRD024,Mixed Masala 100g,MDH,Food & Beverages,Spices,59.09,70.38,16.0,2022,No,50g
+PRD025,Mixed Fruit Jam 250g,Kissan,Food & Beverages,Spreads,75.4,92.01,18.1,2018,No,500ml
+PRD026,Tomato Ketchup 500g,Heinz,Food & Beverages,Sauces,91.33,106.26,14.1,2018,No,100g
+PRD027,Cornflakes 500g,Kelloggs,Food & Beverages,Breakfast,128.49,141.45,9.2,2020,No,1kg
+PRD028,Baby Lotion 200ml,Johnson's,Baby Care,Baby Skin,152.29,183.77,17.1,2020,Yes,1kg
+PRD029,Baby Wipes 80pcs,Pampers,Baby Care,Baby Hygiene,135.64,150.71,10.0,2019,No,1kg
+PRD030,Baby Powder 100g,Johnson's,Baby Care,Baby Skin,84.47,103.85,18.7,2021,No,500ml
+PRD031,Baby Shampoo 100ml,Himalaya,Baby Care,Baby Hair,107.02,118.74,9.9,2022,No,250g
+PRD032,Diaper Pants M 30pcs,Huggies,Baby Care,Baby Hygiene,466.53,557.8,16.4,2020,Yes,100g
+PRD033,Whey Protein 500g,Ensure,Health & Wellness,Nutrition,454.41,525.95,13.6,2020,Yes,250g
+PRD034,Immunity Syrup 200ml,Dabur Chyawanprash,Health & Wellness,Immunity,218.76,259.05,15.6,2020,Yes,500ml
+PRD035,Pain Relief Gel 30g,Volini,Health & Wellness,Pain Relief,75.27,87.62,14.1,2019,No,200ml
+PRD036,Energy Bar 50g,RiteBite,Health & Wellness,Nutrition,44.56,50.36,11.5,2018,No,1L
+PRD037,Mouthwash 250ml,Listerine,Health & Wellness,Oral Care,130.99,154.08,15.0,2022,No,1L
+PRD038,Hand Sanitizer 100ml,Dettol,Health & Wellness,Hygiene,62.39,72.47,13.9,2020,No,50g
+PRD039,Glucose Powder 500g,Glucon-D,Health & Wellness,Energy,104.77,130.06,19.4,2020,No,1L

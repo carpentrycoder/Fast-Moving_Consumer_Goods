@@ -1,0 +1,225 @@
+distributor_id,distributor_name,city,state,region,retailer_count,onboarding_year,tier,gst_registered,payment_terms
+DIST001,Singh Sales Corp,Nagpur,Maharashtra,West,70,2018,Tier 3,Yes,Net 45
+DIST002,Mehta Enterprises,Pune,Maharashtra,West,65,2020,Tier 2,Yes,Net 45
+DIST003,Verma Distributors,Mumbai,Maharashtra,West,48,2017,Tier 2,Yes,Net 30
+DIST004,Jain Distributors,Nagpur,Maharashtra,West,54,2017,Tier 3,Yes,Net 15
+DIST005,Shah Suppliers,Mumbai,Maharashtra,West,20,2021,Tier 2,Yes,Net 30
+DIST006,Reddy & Co.,Mumbai,Maharashtra,West,65,2019,Tier 2,Yes,Net 45
+DIST007,Jain Distributors,Aurangabad,Maharashtra,West,63,2020,Tier 2,Yes,Net 45
+DIST008,Agarwal Marketing,Aurangabad,Maharashtra,West,58,2021,Tier 2,Yes,Net 30
+DIST009,Kumar Distributors,Mumbai,Maharashtra,West,50,2021,Tier 2,Yes,Net 30
+DIST010,Gupta Suppliers,Mumbai,Maharashtra,West,60,2021,Tier 2,No,Net 30
+DIST011,Gupta Distributors,Nashik,Maharashtra,West,77,2019,Tier 2,Yes,Net 30
+DIST012,Mehta Brothers,Nagpur,Maharashtra,West,71,2018,Tier 2,Yes,Net 15
+DIST013,Singh Marketing,Nagpur,Maharashtra,West,52,2021,Tier 3,Yes,Net 30
+DIST014,Kumar Suppliers,Mumbai,Maharashtra,West,73,2018,Tier 2,Yes,Net 30
+DIST015,Mishra Enterprises,Aurangabad,Maharashtra,West,68,2018,Tier 3,Yes,Net 45
+DIST016,Gupta Enterprises,Nashik,Maharashtra,West,46,2018,Tier 3,Yes,Net 30
+DIST017,Jain Suppliers,Aurangabad,Maharashtra,West,75,2017,Tier 2,Yes,COD
+DIST018,Gupta Marketing,Mumbai,Maharashtra,West,67,2020,Tier 2,Yes,Net 15
+DIST019,Gupta Traders,Nagpur,Maharashtra,West,74,2019,Tier 3,Yes,Net 45
+DIST020,Jain Suppliers,Mumbai,Maharashtra,West,44,2020,Tier 1,Yes,Net 45
+DIST021,Kumar Marketing,Pune,Maharashtra,West,64,2021,Tier 2,Yes,Net 30
+DIST022,Choudhary Sales Corp,Nashik,Maharashtra,West,49,2019,Tier 2,Yes,Net 45
+DIST023,Sharma Suppliers,Surat,Gujarat,West,48,2020,Tier 2,Yes,Net 45
+DIST024,Gupta & Co.,Gandhinagar,Gujarat,West,43,2017,Tier 2,Yes,Net 30
+DIST025,Mehta Sales Corp,Gandhinagar,Gujarat,West,68,2021,Tier 2,Yes,Net 30
+DIST026,Jain Marketing,Surat,Gujarat,West,37,2021,Tier 2,Yes,Net 30
+DIST027,Sharma & Co.,Rajkot,Gujarat,West,69,2019,Tier 2,Yes,Net 15
+DIST028,Ram Traders,Ahmedabad,Gujarat,West,47,2020,Tier 3,No,COD
+DIST029,Sharma Enterprises,Rajkot,Gujarat,West,58,2021,Tier 2,No,Net 15
+DIST030,Mishra Distributors,Rajkot,Gujarat,West,71,2021,Tier 2,Yes,Net 30
+DIST031,Jain Brothers,Gandhinagar,Gujarat,West,63,2018,Tier 3,Yes,Net 30
+DIST032,Mehta & Co.,Ahmedabad,Gujarat,West,41,2018,Tier 2,Yes,Net 30
+DIST033,Patel & Co.,Vadodara,Gujarat,West,66,2018,Tier 3,Yes,Net 45
+DIST034,Verma Distributors,Vadodara,Gujarat,West,86,2021,Tier 1,Yes,Net 30
+DIST035,Nair Enterprises,Rajkot,Gujarat,West,51,2019,Tier 2,Yes,Net 15
+DIST036,Shree Suppliers,Gandhinagar,Gujarat,West,58,2019,Tier 2,Yes,Net 30
+DIST037,Singh & Co.,Ahmedabad,Gujarat,West,53,2020,Tier 1,Yes,Net 30
+DIST038,Agarwal & Co.,Gandhinagar,Gujarat,West,61,2021,Tier 2,Yes,Net 30
+DIST039,Kumar Enterprises,Vadodara,Gujarat,West,49,2021,Tier 1,Yes,Net 30
+DIST040,Singh & Co.,Gandhinagar,Gujarat,West,63,2020,Tier 1,No,Net 45
+DIST041,Shree Marketing,Kota,Rajasthan,West,58,2019,Tier 2,Yes,Net 15
+DIST042,Shree Distributors,Udaipur,Rajasthan,West,52,2021,Tier 1,Yes,Net 30
+DIST043,Agarwal Agencies,Jaipur,Rajasthan,West,36,2017,Tier 2,Yes,COD
+DIST044,Gupta Distributors,Jaipur,Rajasthan,West,54,2021,Tier 2,Yes,Net 30
+DIST045,Choudhary Distributors,Ajmer,Rajasthan,West,79,2017,Tier 2,Yes,Net 15
+DIST046,Sharma Enterprises,Kota,Rajasthan,West,49,2020,Tier 1,Yes,Net 45
+DIST047,Kapoor Enterprises,Udaipur,Rajasthan,West,51,2021,Tier 2,Yes,Net 30
+DIST048,Bansal Sales Corp,Jodhpur,Rajasthan,West,76,2018,Tier 2,Yes,COD
+DIST049,Kapoor Agencies,Udaipur,Rajasthan,West,107,2021,Tier 1,Yes,Net 30
+DIST050,Jain Marketing,Kota,Rajasthan,West,61,2017,Tier 3,Yes,Net 45
+DIST051,Bansal Brothers,Jaipur,Rajasthan,West,71,2017,Tier 2,Yes,COD
+DIST052,Gupta Agencies,Jaipur,Rajasthan,West,87,2019,Tier 3,Yes,Net 30
+DIST053,Verma Traders,Ajmer,Rajasthan,West,46,2018,Tier 1,Yes,Net 30
+DIST054,Kapoor Agencies,Ajmer,Rajasthan,West,49,2018,Tier 2,Yes,Net 15
+DIST055,Gupta Traders,New Delhi,Delhi,North,46,2020,Tier 2,Yes,COD
+DIST056,Jai Agencies,New Delhi,Delhi,North,67,2020,Tier 2,No,Net 30
+DIST057,Jai Marketing,New Delhi,Delhi,North,80,2019,Tier 3,Yes,Net 30
+DIST058,Bansal Agencies,Rohini,Delhi,North,26,2021,Tier 2,Yes,Net 45
+DIST059,Choudhary Agencies,Lajpat Nagar,Delhi,North,45,2017,Tier 2,Yes,Net 30
+DIST060,Sharma Brothers,Dwarka,Delhi,North,34,2019,Tier 1,Yes,COD
+DIST061,Choudhary Sales Corp,Dwarka,Delhi,North,48,2020,Tier 3,No,Net 30
+DIST062,Patel Distributors,Saket,Delhi,North,69,2021,Tier 1,Yes,Net 30
+DIST063,Shah Sales Corp,Saket,Delhi,North,49,2021,Tier 2,Yes,Net 30
+DIST064,Reddy Traders,New Delhi,Delhi,North,58,2021,Tier 3,Yes,Net 45
+DIST065,Jai Sales Corp,Rohini,Delhi,North,56,2021,Tier 2,Yes,Net 45
+DIST066,Patel Agencies,Dwarka,Delhi,North,56,2018,Tier 1,Yes,COD
+DIST067,Kumar & Co.,Saket,Delhi,North,33,2020,Tier 2,Yes,Net 30
+DIST068,Sharma Sales Corp,Dwarka,Delhi,North,33,2020,Tier 2,Yes,Net 45
+DIST069,Mehta Brothers,Dwarka,Delhi,North,24,2018,Tier 2,Yes,Net 30
+DIST070,Ram Brothers,Lajpat Nagar,Delhi,North,78,2018,Tier 2,Yes,Net 15
+DIST071,Patel Traders,Meerut,Uttar Pradesh,North,59,2017,Tier 2,Yes,Net 30
+DIST072,Shree Distributors,Kanpur,Uttar Pradesh,North,42,2020,Tier 2,Yes,Net 30
+DIST073,Singh Sales Corp,Varanasi,Uttar Pradesh,North,56,2019,Tier 3,Yes,Net 30
+DIST074,Choudhary Agencies,Varanasi,Uttar Pradesh,North,69,2017,Tier 2,Yes,Net 30
+DIST075,Jai Enterprises,Varanasi,Uttar Pradesh,North,87,2019,Tier 3,Yes,Net 30
+DIST076,Shree Sales Corp,Agra,Uttar Pradesh,North,43,2020,Tier 1,Yes,Net 15
+DIST077,Reddy Suppliers,Varanasi,Uttar Pradesh,North,36,2020,Tier 2,Yes,COD
+DIST078,Kapoor Brothers,Kanpur,Uttar Pradesh,North,78,2019,Tier 2,Yes,Net 30
+DIST079,Kumar Suppliers,Kanpur,Uttar Pradesh,North,63,2021,Tier 1,Yes,COD
+DIST080,Jai & Co.,Lucknow,Uttar Pradesh,North,69,2019,Tier 3,Yes,Net 30
+DIST081,Verma Traders,Lucknow,Uttar Pradesh,North,72,2017,Tier 2,Yes,Net 30
+DIST082,Tiwari Brothers,Meerut,Uttar Pradesh,North,47,2019,Tier 3,Yes,Net 30
+DIST083,Bansal Enterprises,Lucknow,Uttar Pradesh,North,31,2020,Tier 3,No,COD
+DIST084,Bansal Distributors,Kanpur,Uttar Pradesh,North,46,2021,Tier 2,Yes,Net 45
+DIST085,Ram Distributors,Kanpur,Uttar Pradesh,North,34,2017,Tier 1,No,Net 30
+DIST086,Jain Distributors,Meerut,Uttar Pradesh,North,45,2017,Tier 2,Yes,Net 30
+DIST087,Gupta Traders,Meerut,Uttar Pradesh,North,59,2018,Tier 2,Yes,Net 30
+DIST088,Ram Sales Corp,Meerut,Uttar Pradesh,North,43,2017,Tier 2,Yes,Net 45
+DIST089,Tiwari & Co.,Agra,Uttar Pradesh,North,39,2021,Tier 2,Yes,Net 30
+DIST090,Mehta Agencies,Agra,Uttar Pradesh,North,50,2020,Tier 3,Yes,Net 30
+DIST091,Gupta Suppliers,Jalandhar,Punjab,North,41,2018,Tier 2,Yes,Net 45
+DIST092,Sharma Suppliers,Jalandhar,Punjab,North,56,2020,Tier 2,Yes,Net 30
+DIST093,Verma Distributors,Ludhiana,Punjab,North,52,2017,Tier 2,Yes,Net 30
+DIST094,Reddy Distributors,Ludhiana,Punjab,North,76,2018,Tier 2,Yes,Net 30
+DIST095,Kapoor Agencies,Patiala,Punjab,North,27,2017,Tier 2,Yes,Net 30
+DIST096,Mehta Enterprises,Chandigarh,Punjab,North,68,2020,Tier 1,Yes,Net 45
+DIST097,Ram Agencies,Chandigarh,Punjab,North,85,2018,Tier 2,Yes,Net 45
+DIST098,Agarwal Enterprises,Jalandhar,Punjab,North,50,2018,Tier 2,Yes,Net 15
+DIST099,Kapoor Suppliers,Patiala,Punjab,North,53,2018,Tier 3,Yes,Net 30
+DIST100,Bansal Traders,Patiala,Punjab,North,39,2019,Tier 1,Yes,Net 30
+DIST101,Agarwal Distributors,Amritsar,Punjab,North,67,2017,Tier 2,No,Net 30
+DIST102,Mehta Distributors,Ludhiana,Punjab,North,45,2018,Tier 3,Yes,Net 45
+DIST103,Kapoor Enterprises,Panipat,Haryana,North,61,2019,Tier 2,Yes,Net 30
+DIST104,Agarwal Agencies,Panipat,Haryana,North,43,2019,Tier 2,Yes,Net 45
+DIST105,Kumar Suppliers,Karnal,Haryana,North,58,2017,Tier 2,Yes,Net 15
+DIST106,Choudhary Suppliers,Gurugram,Haryana,North,35,2017,Tier 2,Yes,Net 30
+DIST107,Ram Sales Corp,Panipat,Haryana,North,50,2020,Tier 2,Yes,Net 45
+DIST108,Jai Traders,Panipat,Haryana,North,87,2017,Tier 2,Yes,Net 30
+DIST109,Sharma Suppliers,Faridabad,Haryana,North,58,2019,Tier 2,No,Net 30
+DIST110,Reddy & Co.,Ambala,Haryana,North,67,2017,Tier 1,Yes,Net 30
+DIST111,Kapoor Traders,Gurugram,Haryana,North,72,2017,Tier 1,Yes,Net 30
+DIST112,Ram Enterprises,Karnal,Haryana,North,54,2020,Tier 3,Yes,Net 30
+DIST113,Jai Marketing,Karnal,Haryana,North,54,2019,Tier 3,Yes,Net 30
+DIST114,Kapoor Enterprises,Ambala,Haryana,North,61,2018,Tier 2,Yes,Net 15
+DIST115,Sharma Traders,Madurai,Tamil Nadu,South,38,2017,Tier 3,Yes,Net 45
+DIST116,Shah Traders,Madurai,Tamil Nadu,South,22,2021,Tier 2,No,Net 30
+DIST117,Kumar Agencies,Chennai,Tamil Nadu,South,24,2018,Tier 2,Yes,Net 30
+DIST118,Shah & Co.,Tiruchirappalli,Tamil Nadu,South,68,2018,Tier 1,Yes,Net 15
+DIST119,Mishra Enterprises,Coimbatore,Tamil Nadu,South,48,2019,Tier 2,No,Net 45
+DIST120,Singh Enterprises,Tiruchirappalli,Tamil Nadu,South,34,2020,Tier 2,No,COD
+DIST121,Shree Enterprises,Madurai,Tamil Nadu,South,42,2017,Tier 3,Yes,Net 45
+DIST122,Nair Agencies,Madurai,Tamil Nadu,South,31,2019,Tier 3,Yes,Net 15
+DIST123,Singh Distributors,Tiruchirappalli,Tamil Nadu,South,55,2019,Tier 2,Yes,Net 30
+DIST124,Jai Brothers,Coimbatore,Tamil Nadu,South,43,2018,Tier 2,Yes,Net 30
+DIST125,Kumar Brothers,Madurai,Tamil Nadu,South,39,2017,Tier 3,Yes,Net 30
+DIST126,Agarwal Agencies,Coimbatore,Tamil Nadu,South,16,2017,Tier 2,Yes,Net 15
+DIST127,Shree Agencies,Tiruchirappalli,Tamil Nadu,South,53,2019,Tier 2,Yes,Net 15
+DIST128,Verma Suppliers,Chennai,Tamil Nadu,South,27,2021,Tier 2,Yes,Net 30
+DIST129,Mehta Marketing,Salem,Tamil Nadu,South,64,2017,Tier 1,Yes,Net 45
+DIST130,Jain & Co.,Madurai,Tamil Nadu,South,60,2019,Tier 3,Yes,Net 30
+DIST131,Shree Distributors,Hubballi,Karnataka,South,38,2020,Tier 2,Yes,Net 15
+DIST132,Singh Suppliers,Bengaluru,Karnataka,South,17,2020,Tier 3,Yes,Net 30
+DIST133,Patel Sales Corp,Hubballi,Karnataka,South,56,2019,Tier 2,Yes,COD
+DIST134,Verma Sales Corp,Belagavi,Karnataka,South,78,2018,Tier 3,Yes,Net 30
+DIST135,Bansal Distributors,Mangaluru,Karnataka,South,86,2020,Tier 2,Yes,COD
+DIST136,Tiwari Agencies,Hubballi,Karnataka,South,51,2021,Tier 3,Yes,Net 15
+DIST137,Jai Sales Corp,Bengaluru,Karnataka,South,78,2019,Tier 3,No,COD
+DIST138,Bansal & Co.,Mysuru,Karnataka,South,70,2017,Tier 1,No,Net 45
+DIST139,Shah Sales Corp,Bengaluru,Karnataka,South,50,2021,Tier 2,Yes,Net 30
+DIST140,Verma Marketing,Bengaluru,Karnataka,South,66,2017,Tier 1,Yes,Net 30
+DIST141,Agarwal & Co.,Hubballi,Karnataka,South,62,2018,Tier 2,Yes,COD
+DIST142,Nair Marketing,Mangaluru,Karnataka,South,51,2019,Tier 1,Yes,Net 30
+DIST143,Agarwal & Co.,Mysuru,Karnataka,South,32,2021,Tier 3,Yes,Net 30
+DIST144,Kumar Sales Corp,Mangaluru,Karnataka,South,54,2018,Tier 1,Yes,Net 15
+DIST145,Singh Suppliers,Mangaluru,Karnataka,South,38,2021,Tier 1,Yes,Net 30
+DIST146,Kapoor Traders,Hubballi,Karnataka,South,47,2019,Tier 2,Yes,Net 30
+DIST147,Agarwal Agencies,Tirupati,Andhra Pradesh,South,88,2018,Tier 2,Yes,Net 30
+DIST148,Tiwari Marketing,Tirupati,Andhra Pradesh,South,33,2020,Tier 2,Yes,Net 45
+DIST149,Reddy Brothers,Vijayawada,Andhra Pradesh,South,45,2019,Tier 2,Yes,Net 30
+DIST150,Bansal Brothers,Vijayawada,Andhra Pradesh,South,39,2020,Tier 3,No,Net 45
+DIST151,Ram Suppliers,Kakinada,Andhra Pradesh,South,46,2017,Tier 2,Yes,Net 30
+DIST152,Mishra Marketing,Visakhapatnam,Andhra Pradesh,South,65,2021,Tier 2,Yes,Net 30
+DIST153,Gupta Suppliers,Vijayawada,Andhra Pradesh,South,52,2018,Tier 3,No,Net 30
+DIST154,Kumar Enterprises,Visakhapatnam,Andhra Pradesh,South,64,2019,Tier 3,No,Net 15
+DIST155,Jai Agencies,Tirupati,Andhra Pradesh,South,24,2018,Tier 1,Yes,Net 30
+DIST156,Mishra Distributors,Tirupati,Andhra Pradesh,South,36,2019,Tier 1,Yes,Net 30
+DIST157,Nair Agencies,Tirupati,Andhra Pradesh,South,57,2021,Tier 2,Yes,Net 30
+DIST158,Choudhary Sales Corp,Vijayawada,Andhra Pradesh,South,53,2020,Tier 3,Yes,Net 45
+DIST159,Sharma Traders,Hyderabad,Telangana,South,64,2019,Tier 3,Yes,Net 15
+DIST160,Nair Agencies,Warangal,Telangana,South,44,2018,Tier 2,No,Net 30
+DIST161,Bansal Brothers,Hyderabad,Telangana,South,49,2017,Tier 2,Yes,Net 30
+DIST162,Kapoor Agencies,Hyderabad,Telangana,South,29,2017,Tier 1,Yes,COD
+DIST163,Reddy Enterprises,Nizamabad,Telangana,South,30,2021,Tier 1,Yes,Net 15
+DIST164,Bansal & Co.,Khammam,Telangana,South,51,2020,Tier 2,Yes,Net 30
+DIST165,Verma Brothers,Khammam,Telangana,South,77,2021,Tier 1,Yes,COD
+DIST166,Bansal Sales Corp,Khammam,Telangana,South,49,2019,Tier 2,Yes,Net 30
+DIST167,Reddy Enterprises,Nizamabad,Telangana,South,22,2018,Tier 2,Yes,COD
+DIST168,Reddy Suppliers,Warangal,Telangana,South,30,2017,Tier 1,Yes,Net 30
+DIST169,Mehta & Co.,Nizamabad,Telangana,South,27,2020,Tier 3,Yes,Net 30
+DIST170,Gupta Suppliers,Nizamabad,Telangana,South,38,2018,Tier 2,No,Net 15
+DIST171,Ram Suppliers,Warangal,Telangana,South,23,2020,Tier 1,Yes,Net 45
+DIST172,Mehta Marketing,Karimnagar,Telangana,South,48,2019,Tier 2,Yes,Net 45
+DIST173,Kapoor Distributors,Howrah,West Bengal,East,39,2019,Tier 2,Yes,Net 15
+DIST174,Sharma Agencies,Asansol,West Bengal,East,66,2018,Tier 3,Yes,Net 30
+DIST175,Sharma Agencies,Kolkata,West Bengal,East,13,2020,Tier 3,No,Net 45
+DIST176,Nair Sales Corp,Durgapur,West Bengal,East,57,2017,Tier 2,Yes,Net 30
+DIST177,Kapoor Brothers,Asansol,West Bengal,East,45,2021,Tier 3,Yes,Net 30
+DIST178,Jai Agencies,Asansol,West Bengal,East,49,2017,Tier 3,Yes,Net 30
+DIST179,Jain Traders,Siliguri,West Bengal,East,42,2018,Tier 2,No,Net 30
+DIST180,Jain Brothers,Kolkata,West Bengal,East,34,2018,Tier 2,Yes,Net 45
+DIST181,Shah Suppliers,Asansol,West Bengal,East,37,2019,Tier 3,Yes,Net 45
+DIST182,Nair & Co.,Siliguri,West Bengal,East,37,2019,Tier 2,Yes,Net 15
+DIST183,Mishra Agencies,Asansol,West Bengal,East,18,2020,Tier 2,Yes,Net 30
+DIST184,Gupta Suppliers,Asansol,West Bengal,East,47,2018,Tier 3,Yes,Net 30
+DIST185,Choudhary Traders,Asansol,West Bengal,East,61,2017,Tier 3,Yes,Net 30
+DIST186,Verma Sales Corp,Howrah,West Bengal,East,42,2020,Tier 2,Yes,Net 45
+DIST187,Reddy Enterprises,Sambalpur,Odisha,East,50,2019,Tier 1,Yes,Net 15
+DIST188,Kapoor Traders,Berhampur,Odisha,East,40,2017,Tier 2,Yes,Net 30
+DIST189,Tiwari Traders,Bhubaneswar,Odisha,East,33,2020,Tier 3,Yes,Net 15
+DIST190,Nair Enterprises,Berhampur,Odisha,East,61,2018,Tier 2,Yes,Net 15
+DIST191,Singh Traders,Rourkela,Odisha,East,10,2020,Tier 2,No,Net 45
+DIST192,Jain Marketing,Cuttack,Odisha,East,21,2019,Tier 2,No,Net 45
+DIST193,Reddy Marketing,Rourkela,Odisha,East,52,2018,Tier 1,No,Net 30
+DIST194,Jain Suppliers,Berhampur,Odisha,East,43,2020,Tier 3,Yes,Net 45
+DIST195,Mehta Distributors,Muzaffarpur,Bihar,East,33,2018,Tier 3,Yes,Net 15
+DIST196,Shree & Co.,Patna,Bihar,East,38,2017,Tier 2,Yes,Net 30
+DIST197,Shah Agencies,Patna,Bihar,East,41,2018,Tier 2,Yes,Net 45
+DIST198,Jai Traders,Gaya,Bihar,East,14,2021,Tier 2,Yes,Net 30
+DIST199,Kumar Traders,Darbhanga,Bihar,East,27,2017,Tier 2,Yes,Net 30
+DIST200,Sharma Agencies,Gaya,Bihar,East,42,2019,Tier 3,Yes,Net 45
+DIST201,Choudhary Distributors,Darbhanga,Bihar,East,49,2019,Tier 2,Yes,Net 15
+DIST202,Kumar Brothers,Bhagalpur,Bihar,East,70,2019,Tier 3,Yes,Net 15
+DIST203,Shah Enterprises,Darbhanga,Bihar,East,50,2021,Tier 3,Yes,Net 45
+DIST204,Mishra Distributors,Gaya,Bihar,East,24,2021,Tier 3,Yes,Net 30
+DIST205,Agarwal Distributors,Ujjain,Madhya Pradesh,Central,51,2017,Tier 3,Yes,Net 30
+DIST206,Shree Suppliers,Ujjain,Madhya Pradesh,Central,36,2017,Tier 1,Yes,Net 30
+DIST207,Jain Sales Corp,Indore,Madhya Pradesh,Central,39,2020,Tier 1,Yes,Net 45
+DIST208,Ram Agencies,Bhopal,Madhya Pradesh,Central,25,2019,Tier 3,Yes,Net 45
+DIST209,Agarwal Distributors,Ujjain,Madhya Pradesh,Central,38,2018,Tier 3,Yes,Net 30
+DIST210,Jai Marketing,Ujjain,Madhya Pradesh,Central,32,2018,Tier 2,Yes,COD
+DIST211,Nair Marketing,Bhopal,Madhya Pradesh,Central,14,2020,Tier 1,Yes,Net 15
+DIST212,Bansal Marketing,Bhopal,Madhya Pradesh,Central,46,2019,Tier 3,Yes,COD
+DIST213,Nair Brothers,Bhopal,Madhya Pradesh,Central,53,2021,Tier 1,No,Net 30
+DIST214,Nair Marketing,Jabalpur,Madhya Pradesh,Central,13,2018,Tier 3,Yes,Net 45
+DIST215,Sharma Sales Corp,Indore,Madhya Pradesh,Central,31,2018,Tier 1,Yes,COD
+DIST216,Bansal Suppliers,Ujjain,Madhya Pradesh,Central,62,2021,Tier 2,Yes,Net 30
+DIST217,Kapoor Brothers,Bilaspur,Chhattisgarh,Central,25,2017,Tier 2,Yes,Net 45
+DIST218,Nair Suppliers,Korba,Chhattisgarh,Central,32,2018,Tier 1,Yes,Net 30
+DIST219,Gupta Distributors,Korba,Chhattisgarh,Central,36,2021,Tier 2,Yes,Net 15
+DIST220,Reddy Agencies,Bilaspur,Chhattisgarh,Central,52,2020,Tier 2,Yes,COD
+DIST221,Tiwari Sales Corp,Korba,Chhattisgarh,Central,31,2021,Tier 3,Yes,COD
+DIST222,Shree Brothers,Korba,Chhattisgarh,Central,17,2019,Tier 2,No,Net 30
+DIST223,Singh Brothers,Bhilai,Chhattisgarh,Central,31,2021,Tier 2,Yes,Net 45
+DIST224,Shah Suppliers,Korba,Chhattisgarh,Central,40,2018,Tier 3,Yes,COD
